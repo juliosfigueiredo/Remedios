@@ -1,0 +1,2977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="UnipEad/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+    </header>
+    <body>
+      <trans-unit id="0Jq-k0-Ux5.text" xml:space="preserve">
+        <source>Celular</source>
+        <target>Celular</target>
+        <note>Class = "UILabel"; text = "Celular"; ObjectID = "0Jq-k0-Ux5";</note>
+      </trans-unit>
+      <trans-unit id="0VN-oJ-NaR.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "0VN-oJ-NaR";</note>
+      </trans-unit>
+      <trans-unit id="0bl-0C-nxj.normalTitle" xml:space="preserve">
+        <source>Cancelar</source>
+        <target>Cancelar</target>
+        <note>Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "0bl-0C-nxj";</note>
+      </trans-unit>
+      <trans-unit id="0gC-Om-XCq.text" xml:space="preserve">
+        <source>Valor Total Pago</source>
+        <target>Valor Total Pago</target>
+        <note>Class = "UILabel"; text = "Valor Total Pago"; ObjectID = "0gC-Om-XCq";</note>
+      </trans-unit>
+      <trans-unit id="0pv-3H-CsC.text" xml:space="preserve">
+        <source>Desconto pontualidade</source>
+        <target>Desconto pontualidade</target>
+        <note>Class = "UILabel"; text = "Desconto pontualidade"; ObjectID = "0pv-3H-CsC";</note>
+      </trans-unit>
+      <trans-unit id="0wQ-bz-9Ks.text" xml:space="preserve">
+        <source>Valor total</source>
+        <target>Valor total</target>
+        <note>Class = "UILabel"; text = "Valor total"; ObjectID = "0wQ-bz-9Ks";</note>
+      </trans-unit>
+      <trans-unit id="1UU-UI-2gU.text" xml:space="preserve">
+        <source>Data processamento</source>
+        <target>Data processamento</target>
+        <note>Class = "UILabel"; text = "Data processamento"; ObjectID = "1UU-UI-2gU";</note>
+      </trans-unit>
+      <trans-unit id="1Vn-yB-dC9.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "1Vn-yB-dC9";</note>
+      </trans-unit>
+      <trans-unit id="1gi-im-gkl.placeholder" xml:space="preserve">
+        <source>Número do cartão</source>
+        <target>Número do cartão</target>
+        <note>Class = "UITextField"; placeholder = "Número do cartão"; ObjectID = "1gi-im-gkl";</note>
+      </trans-unit>
+      <trans-unit id="1iG-Yr-7qV.text" xml:space="preserve">
+        <source>Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito</source>
+        <target>Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito</target>
+        <note>Class = "UILabel"; text = "Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito"; ObjectID = "1iG-Yr-7qV";</note>
+      </trans-unit>
+      <trans-unit id="1tf-Va-ZIF.text" xml:space="preserve">
+        <source>12/12/2020</source>
+        <target>12/12/2020</target>
+        <note>Class = "UILabel"; text = "12/12/2020"; ObjectID = "1tf-Va-ZIF";</note>
+      </trans-unit>
+      <trans-unit id="1uV-AF-Sme.text" xml:space="preserve">
+        <source>Valor pago</source>
+        <target>Valor pago</target>
+        <note>Class = "UILabel"; text = "Valor pago"; ObjectID = "1uV-AF-Sme";</note>
+      </trans-unit>
+      <trans-unit id="1uf-rZ-4Ri.text" xml:space="preserve">
+        <source>Não existem parcelas disponíveis</source>
+        <target>Não existem parcelas disponíveis</target>
+        <note>Class = "UILabel"; text = "Não existem parcelas disponíveis"; ObjectID = "1uf-rZ-4Ri";</note>
+      </trans-unit>
+      <trans-unit id="02A-tF-yzu.text" xml:space="preserve">
+        <source>U-88</source>
+        <target>U-88</target>
+        <note>Class = "UILabel"; text = "U-88"; ObjectID = "02A-tF-yzu";</note>
+      </trans-unit>
+      <trans-unit id="2JA-Ug-bb4.text" xml:space="preserve">
+        <source>1382477021302130</source>
+        <target>1382477021302130</target>
+        <note>Class = "UILabel"; text = "1382477021302130"; ObjectID = "2JA-Ug-bb4";</note>
+      </trans-unit>
+      <trans-unit id="2JH-Sh-vB7.text" xml:space="preserve">
+        <source>Pedido</source>
+        <target>Pedido</target>
+        <note>Class = "UILabel"; text = "Pedido"; ObjectID = "2JH-Sh-vB7";</note>
+      </trans-unit>
+      <trans-unit id="2Ro-w0-KWy.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "2Ro-w0-KWy";</note>
+      </trans-unit>
+      <trans-unit id="2WZ-ta-uzz.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "2WZ-ta-uzz";</note>
+      </trans-unit>
+      <trans-unit id="2YV-6X-7d5.text" xml:space="preserve">
+        <source>Número do pedido</source>
+        <target>Número do pedido</target>
+        <note>Class = "UILabel"; text = "Número do pedido"; ObjectID = "2YV-6X-7d5";</note>
+      </trans-unit>
+      <trans-unit id="2cB-Dw-VtX.text" xml:space="preserve">
+        <source>MASTERCARD</source>
+        <target>MASTERCARD</target>
+        <note>Class = "UILabel"; text = "MASTERCARD"; ObjectID = "2cB-Dw-VtX";</note>
+      </trans-unit>
+      <trans-unit id="2n4-V3-m1y.text" xml:space="preserve">
+        <source>Nenhum documento encontrado</source>
+        <target>Nenhum documento encontrado</target>
+        <note>Class = "UILabel"; text = "Nenhum documento encontrado"; ObjectID = "2n4-V3-m1y";</note>
+      </trans-unit>
+      <trans-unit id="3EN-7l-PvL.text" xml:space="preserve">
+        <source>(11)3767-5800</source>
+        <target>(11)3767-5800</target>
+        <note>Class = "UILabel"; text = "(11)3767-5800"; ObjectID = "3EN-7l-PvL";</note>
+      </trans-unit>
+      <trans-unit id="3IC-Ag-CCG.text" xml:space="preserve">
+        <source>Valor unitário</source>
+        <target>Valor unitário</target>
+        <note>Class = "UILabel"; text = "Valor unitário"; ObjectID = "3IC-Ag-CCG";</note>
+      </trans-unit>
+      <trans-unit id="3Ze-PY-uVe.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "3Ze-PY-uVe";</note>
+      </trans-unit>
+      <trans-unit id="3bf-kv-CfY.text" xml:space="preserve">
+        <source>Cobranças</source>
+        <target>Cobranças</target>
+        <note>Class = "UILabel"; text = "Cobranças"; ObjectID = "3bf-kv-CfY";</note>
+      </trans-unit>
+      <trans-unit id="3un-Rf-ZCt.text" xml:space="preserve">
+        <source>RETIFICAÇÃO DA MATRICULA DO ALUNO (ANALISE ALUNO RETIDO) FDFDFDFDFDFDFDFDF DFDFDFDFdddddddddddddddddddddddddddddddddddddddd</source>
+        <target>RETIFICAÇÃO DA MATRICULA DO ALUNO (ANALISE ALUNO RETIDO) FDFDFDFDFDFDFDFDF DFDFDFDFdddddddddddddddddddddddddddddddddddddddd</target>
+        <note>Class = "UILabel"; text = "RETIFICAÇÃO DA MATRICULA DO ALUNO (ANALISE ALUNO RETIDO) FDFDFDFDFDFDFDFDF DFDFDFDFdddddddddddddddddddddddddddddddddddddddd"; ObjectID = "3un-Rf-ZCt";</note>
+      </trans-unit>
+      <trans-unit id="3wk-NA-s5w.text" xml:space="preserve">
+        <source>Valor total</source>
+        <target>Valor total</target>
+        <note>Class = "UILabel"; text = "Valor total"; ObjectID = "3wk-NA-s5w";</note>
+      </trans-unit>
+      <trans-unit id="4Bz-K1-FXr.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "4Bz-K1-FXr";</note>
+      </trans-unit>
+      <trans-unit id="4HA-ie-AJG.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "4HA-ie-AJG";</note>
+      </trans-unit>
+      <trans-unit id="4Jb-bh-1oD.text" xml:space="preserve">
+        <source>10.0</source>
+        <target>10.0</target>
+        <note>Class = "UILabel"; text = "10.0"; ObjectID = "4Jb-bh-1oD";</note>
+      </trans-unit>
+      <trans-unit id="4Sy-oK-f70.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "4Sy-oK-f70";</note>
+      </trans-unit>
+      <trans-unit id="4Vn-QH-WWC.text" xml:space="preserve">
+        <source>Nova senha</source>
+        <target>Nova senha</target>
+        <note>Class = "UILabel"; text = "Nova senha"; ObjectID = "4Vn-QH-WWC";</note>
+      </trans-unit>
+      <trans-unit id="4YE-iu-JrI.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "4YE-iu-JrI";</note>
+      </trans-unit>
+      <trans-unit id="4aS-Th-iPe.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "4aS-Th-iPe";</note>
+      </trans-unit>
+      <trans-unit id="4gN-mf-s7R.text" xml:space="preserve">
+        <source>Valor pago</source>
+        <target>Valor pago</target>
+        <note>Class = "UILabel"; text = "Valor pago"; ObjectID = "4gN-mf-s7R";</note>
+      </trans-unit>
+      <trans-unit id="4jy-tc-F82.text" xml:space="preserve">
+        <source>Comprovante de venda (NSU)</source>
+        <target>Comprovante de venda (NSU)</target>
+        <note>Class = "UILabel"; text = "Comprovante de venda (NSU)"; ObjectID = "4jy-tc-F82";</note>
+      </trans-unit>
+      <trans-unit id="4qQ-tf-NvA.segmentTitles[0]" xml:space="preserve">
+        <source>Em Andamento</source>
+        <target>Em Andamento</target>
+        <note>Class = "UISegmentedControl"; 4qQ-tf-NvA.segmentTitles[0] = "Em Andamento"; ObjectID = "4qQ-tf-NvA";</note>
+      </trans-unit>
+      <trans-unit id="4qQ-tf-NvA.segmentTitles[1]" xml:space="preserve">
+        <source>Finalizados</source>
+        <target>Finalizados</target>
+        <note>Class = "UISegmentedControl"; 4qQ-tf-NvA.segmentTitles[1] = "Finalizados"; ObjectID = "4qQ-tf-NvA";</note>
+      </trans-unit>
+      <trans-unit id="4xs-Br-g8P.title" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UINavigationItem"; title = "Title"; ObjectID = "4xs-Br-g8P";</note>
+      </trans-unit>
+      <trans-unit id="5D8-8a-dqv.text" xml:space="preserve">
+        <source>06160040</source>
+        <target>06160040</target>
+        <note>Class = "UILabel"; text = "06160040"; ObjectID = "5D8-8a-dqv";</note>
+      </trans-unit>
+      <trans-unit id="5E1-Um-mWm.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "5E1-Um-mWm";</note>
+      </trans-unit>
+      <trans-unit id="5O2-ii-RQp.title" xml:space="preserve">
+        <source>Bem vindo</source>
+        <target>Bem vindo</target>
+        <note>Class = "UINavigationItem"; title = "Bem vindo"; ObjectID = "5O2-ii-RQp";</note>
+      </trans-unit>
+      <trans-unit id="05d-1K-DFg.text" xml:space="preserve">
+        <source>Valor bruto</source>
+        <target>Valor bruto</target>
+        <note>Class = "UILabel"; text = "Valor bruto"; ObjectID = "05d-1K-DFg";</note>
+      </trans-unit>
+      <trans-unit id="5f5-NV-RfV.text" xml:space="preserve">
+        <source>Parâmetros do serviço</source>
+        <target>Parâmetros do serviço</target>
+        <note>Class = "UILabel"; text = "Parâmetros do serviço"; ObjectID = "5f5-NV-RfV";</note>
+      </trans-unit>
+      <trans-unit id="5vZ-97-TiN.text" xml:space="preserve">
+        <source>Cidade</source>
+        <target>Cidade</target>
+        <note>Class = "UILabel"; text = "Cidade"; ObjectID = "5vZ-97-TiN";</note>
+      </trans-unit>
+      <trans-unit id="6Cg-vi-jKa.text" xml:space="preserve">
+        <source>Cidade Universitaria</source>
+        <target>Cidade Universitaria</target>
+        <note>Class = "UILabel"; text = "Cidade Universitaria"; ObjectID = "6Cg-vi-jKa";</note>
+      </trans-unit>
+      <trans-unit id="6DY-O0-2Ae.text" xml:space="preserve">
+        <source>03/09/2020</source>
+        <target>03/09/2020</target>
+        <note>Class = "UILabel"; text = "03/09/2020"; ObjectID = "6DY-O0-2Ae";</note>
+      </trans-unit>
+      <trans-unit id="6Hq-zE-yi4.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "6Hq-zE-yi4";</note>
+      </trans-unit>
+      <trans-unit id="6Iz-0t-Ccn.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "6Iz-0t-Ccn";</note>
+      </trans-unit>
+      <trans-unit id="6J3-Kr-433.text" xml:space="preserve">
+        <source>Caso tenha um serviço que é pré pago, efetue o pagamento do boleto em até 4 dia(s) para iniciar o andamento do procedimento na secretaria, caso contrário este serviço será desconsiderado.</source>
+        <target>Caso tenha um serviço que é pré pago, efetue o pagamento do boleto em até 4 dia(s) para iniciar o andamento do procedimento na secretaria, caso contrário este serviço será desconsiderado.</target>
+        <note>Class = "UILabel"; text = "Caso tenha um serviço que é pré pago, efetue o pagamento do boleto em até 4 dia(s) para iniciar o andamento do procedimento na secretaria, caso contrário este serviço será desconsiderado."; ObjectID = "6J3-Kr-433";</note>
+      </trans-unit>
+      <trans-unit id="6SN-lP-pvh.text" xml:space="preserve">
+        <source>Dívida</source>
+        <target>Dívida</target>
+        <note>Class = "UILabel"; text = "Dívida"; ObjectID = "6SN-lP-pvh";</note>
+      </trans-unit>
+      <trans-unit id="6b0-wc-MtJ.text" xml:space="preserve">
+        <source>Prazo de entrega</source>
+        <target>Prazo de entrega</target>
+        <note>Class = "UILabel"; text = "Prazo de entrega"; ObjectID = "6b0-wc-MtJ";</note>
+      </trans-unit>
+      <trans-unit id="06e-F1-9Uq.normalTitle" xml:space="preserve">
+        <source>Parcelas geradas</source>
+        <target>Parcelas geradas</target>
+        <note>Class = "UIButton"; normalTitle = "Parcelas geradas"; ObjectID = "06e-F1-9Uq";</note>
+      </trans-unit>
+      <trans-unit id="6hx-7o-Rxb.text" xml:space="preserve">
+        <source>01</source>
+        <target>01</target>
+        <note>Class = "UILabel"; text = "01"; ObjectID = "6hx-7o-Rxb";</note>
+      </trans-unit>
+      <trans-unit id="6tv-M7-L9i.title" xml:space="preserve">
+        <source>Secretaria</source>
+        <target>Secretaria</target>
+        <note>Class = "UITabBarItem"; title = "Secretaria"; ObjectID = "6tv-M7-L9i";</note>
+      </trans-unit>
+      <trans-unit id="6wS-tn-6sJ.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "6wS-tn-6sJ";</note>
+      </trans-unit>
+      <trans-unit id="7Kt-lF-sr3.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "7Kt-lF-sr3";</note>
+      </trans-unit>
+      <trans-unit id="7Mk-Ns-Jhx.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "7Mk-Ns-Jhx";</note>
+      </trans-unit>
+      <trans-unit id="7Ou-jY-9k0.placeholder" xml:space="preserve">
+        <source>Bairro</source>
+        <target>Bairro</target>
+        <note>Class = "UITextField"; placeholder = "Bairro"; ObjectID = "7Ou-jY-9k0";</note>
+      </trans-unit>
+      <trans-unit id="7WG-cb-11t.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "7WG-cb-11t";</note>
+      </trans-unit>
+      <trans-unit id="7Yg-Al-ZTQ.text" xml:space="preserve">
+        <source>Situação</source>
+        <target>Situação</target>
+        <note>Class = "UILabel"; text = "Situação"; ObjectID = "7Yg-Al-ZTQ";</note>
+      </trans-unit>
+      <trans-unit id="7ab-BW-oU9.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "7ab-BW-oU9";</note>
+      </trans-unit>
+      <trans-unit id="7bT-jP-B1e.placeholder" xml:space="preserve">
+        <source>Ano validade</source>
+        <target>Ano validade</target>
+        <note>Class = "UITextField"; placeholder = "Ano validade"; ObjectID = "7bT-jP-B1e";</note>
+      </trans-unit>
+      <trans-unit id="7ee-PP-kVp.text" xml:space="preserve">
+        <source>MASTERCARD</source>
+        <target>MASTERCARD</target>
+        <note>Class = "UILabel"; text = "MASTERCARD"; ObjectID = "7ee-PP-kVp";</note>
+      </trans-unit>
+      <trans-unit id="8F3-NZ-ivo.text" xml:space="preserve">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "8F3-NZ-ivo";</note>
+      </trans-unit>
+      <trans-unit id="8JF-Qx-RK9.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "8JF-Qx-RK9";</note>
+      </trans-unit>
+      <trans-unit id="8g4-Eb-NB4.text" xml:space="preserve">
+        <source>Final do cartão</source>
+        <target>Final do cartão</target>
+        <note>Class = "UILabel"; text = "Final do cartão"; ObjectID = "8g4-Eb-NB4";</note>
+      </trans-unit>
+      <trans-unit id="8i6-uK-o3H.text" xml:space="preserve">
+        <source>Valor acordo</source>
+        <target>Valor acordo</target>
+        <note>Class = "UILabel"; text = "Valor acordo"; ObjectID = "8i6-uK-o3H";</note>
+      </trans-unit>
+      <trans-unit id="8n9-U5-XpJ.text" xml:space="preserve">
+        <source>DATA NASCIMENTO:</source>
+        <target>DATA NASCIMENTO:</target>
+        <note>Class = "UILabel"; text = "DATA NASCIMENTO:"; ObjectID = "8n9-U5-XpJ";</note>
+      </trans-unit>
+      <trans-unit id="9GM-QA-Wli.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "9GM-QA-Wli";</note>
+      </trans-unit>
+      <trans-unit id="9MF-Ak-G86.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "9MF-Ak-G86";</note>
+      </trans-unit>
+      <trans-unit id="09U-SR-KU4.text" xml:space="preserve">
+        <source>À VISTA COM JUROS</source>
+        <target>À VISTA COM JUROS</target>
+        <note>Class = "UILabel"; text = "À VISTA COM JUROS"; ObjectID = "09U-SR-KU4";</note>
+      </trans-unit>
+      <trans-unit id="9Vq-TS-fjh.title" xml:space="preserve">
+        <source>Extrato</source>
+        <target>Extrato</target>
+        <note>Class = "UINavigationItem"; title = "Extrato"; ObjectID = "9Vq-TS-fjh";</note>
+      </trans-unit>
+      <trans-unit id="9hi-ck-ChB.text" xml:space="preserve">
+        <source>Tipo de pagamento</source>
+        <target>Tipo de pagamento</target>
+        <note>Class = "UILabel"; text = "Tipo de pagamento"; ObjectID = "9hi-ck-ChB";</note>
+      </trans-unit>
+      <trans-unit id="9je-Zf-UMA.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "9je-Zf-UMA";</note>
+      </trans-unit>
+      <trans-unit id="9q8-Q1-XnR.text" xml:space="preserve">
+        <source>Valor total: R$ 59,90</source>
+        <target>Valor total: R$ 59,90</target>
+        <note>Class = "UILabel"; text = "Valor total: R$ 59,90"; ObjectID = "9q8-Q1-XnR";</note>
+      </trans-unit>
+      <trans-unit id="9qH-0k-WaQ.text" xml:space="preserve">
+        <source>CAMPI DA UNIP</source>
+        <target>CAMPI DA UNIP</target>
+        <note>Class = "UILabel"; text = "CAMPI DA UNIP"; ObjectID = "9qH-0k-WaQ";</note>
+      </trans-unit>
+      <trans-unit id="014-n5-u68.text" xml:space="preserve">
+        <source>10.0</source>
+        <target>10.0</target>
+        <note>Class = "UILabel"; text = "10.0"; ObjectID = "014-n5-u68";</note>
+      </trans-unit>
+      <trans-unit id="14a-aD-T0Y.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "14a-aD-T0Y";</note>
+      </trans-unit>
+      <trans-unit id="18Y-cm-CWw.segmentTitles[0]" xml:space="preserve">
+        <source>Pagamentos realizados</source>
+        <target>Pagamentos realizados</target>
+        <note>Class = "UISegmentedControl"; 18Y-cm-CWw.segmentTitles[0] = "Pagamentos realizados"; ObjectID = "18Y-cm-CWw";</note>
+      </trans-unit>
+      <trans-unit id="18Y-cm-CWw.segmentTitles[1]" xml:space="preserve">
+        <source>Cobranças a pagar</source>
+        <target>Cobranças a pagar</target>
+        <note>Class = "UISegmentedControl"; 18Y-cm-CWw.segmentTitles[1] = "Cobranças a pagar"; ObjectID = "18Y-cm-CWw";</note>
+      </trans-unit>
+      <trans-unit id="36I-Ue-MpA.text" xml:space="preserve">
+        <source>ACADEMIA</source>
+        <target>ACADEMIA</target>
+        <note>Class = "UILabel"; text = "ACADEMIA"; ObjectID = "36I-Ue-MpA";</note>
+      </trans-unit>
+      <trans-unit id="51A-rE-TaM.normalTitle" xml:space="preserve">
+        <source>Cancelar</source>
+        <target>Cancelar</target>
+        <note>Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "51A-rE-TaM";</note>
+      </trans-unit>
+      <trans-unit id="69n-zQ-JmH.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "69n-zQ-JmH";</note>
+      </trans-unit>
+      <trans-unit id="72Q-4w-P3e.placeholder" xml:space="preserve">
+        <source>Complemento</source>
+        <target>Complemento</target>
+        <note>Class = "UITextField"; placeholder = "Complemento"; ObjectID = "72Q-4w-P3e";</note>
+      </trans-unit>
+      <trans-unit id="73r-Zw-Zat.text" xml:space="preserve">
+        <source>0000000</source>
+        <target>0000000</target>
+        <note>Class = "UILabel"; text = "0000000"; ObjectID = "73r-Zw-Zat";</note>
+      </trans-unit>
+      <trans-unit id="87P-cw-KjR.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "87P-cw-KjR";</note>
+      </trans-unit>
+      <trans-unit id="88Q-WW-3cK.text" xml:space="preserve">
+        <source>Encargos de cobrança</source>
+        <target>Encargos de cobrança</target>
+        <note>Class = "UILabel"; text = "Encargos de cobrança"; ObjectID = "88Q-WW-3cK";</note>
+      </trans-unit>
+      <trans-unit id="089-fU-pJX.text" xml:space="preserve">
+        <source>15 DIAS</source>
+        <target>15 DIAS</target>
+        <note>Class = "UILabel"; text = "15 DIAS"; ObjectID = "089-fU-pJX";</note>
+      </trans-unit>
+      <trans-unit id="91W-EZ-ZUL.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "91W-EZ-ZUL";</note>
+      </trans-unit>
+      <trans-unit id="91s-ti-XMq.text" xml:space="preserve">
+        <source>Acerto</source>
+        <target>Acerto</target>
+        <note>Class = "UILabel"; text = "Acerto"; ObjectID = "91s-ti-XMq";</note>
+      </trans-unit>
+      <trans-unit id="368-Ui-fb6.text" xml:space="preserve">
+        <source>A transação não pode ser concluida. Por favor, tente novamente. A transação não foi autorizada pela operadora do cartão de credito. [005]</source>
+        <target>A transação não pode ser concluida. Por favor, tente novamente. A transação não foi autorizada pela operadora do cartão de credito. [005]</target>
+        <note>Class = "UILabel"; text = "A transação não pode ser concluida. Por favor, tente novamente. A transação não foi autorizada pela operadora do cartão de credito. [005]"; ObjectID = "368-Ui-fb6";</note>
+      </trans-unit>
+      <trans-unit id="688-U7-zQL.text" xml:space="preserve">
+        <source>Disciplina</source>
+        <target>Disciplina</target>
+        <note>Class = "UILabel"; text = "Disciplina"; ObjectID = "688-U7-zQL";</note>
+      </trans-unit>
+      <trans-unit id="715-2E-PVD.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "715-2E-PVD";</note>
+      </trans-unit>
+      <trans-unit id="950-KQ-gtV.text" xml:space="preserve">
+        <source>(11)3767-6205</source>
+        <target>(11)3767-6205</target>
+        <note>Class = "UILabel"; text = "(11)3767-6205"; ObjectID = "950-KQ-gtV";</note>
+      </trans-unit>
+      <trans-unit id="AGi-Xp-9Hg.text" xml:space="preserve">
+        <source>ACADEMIA</source>
+        <target>ACADEMIA</target>
+        <note>Class = "UILabel"; text = "ACADEMIA"; ObjectID = "AGi-Xp-9Hg";</note>
+      </trans-unit>
+      <trans-unit id="AS4-dt-IlR.text" xml:space="preserve">
+        <source>04/09/2020</source>
+        <target>04/09/2020</target>
+        <note>Class = "UILabel"; text = "04/09/2020"; ObjectID = "AS4-dt-IlR";</note>
+      </trans-unit>
+      <trans-unit id="ASg-Pd-aYb.text" xml:space="preserve">
+        <source>----</source>
+        <target>----</target>
+        <note>Class = "UILabel"; text = "----"; ObjectID = "ASg-Pd-aYb";</note>
+      </trans-unit>
+      <trans-unit id="AUE-8d-5JR.text" xml:space="preserve">
+        <source>12/09/2020</source>
+        <target>12/09/2020</target>
+        <note>Class = "UILabel"; text = "12/09/2020"; ObjectID = "AUE-8d-5JR";</note>
+      </trans-unit>
+      <trans-unit id="Ac1-WM-k8P.text" xml:space="preserve">
+        <source>Parâmetros do serviço</source>
+        <target>Parâmetros do serviço</target>
+        <note>Class = "UILabel"; text = "Parâmetros do serviço"; ObjectID = "Ac1-WM-k8P";</note>
+      </trans-unit>
+      <trans-unit id="As1-Ot-Hrh.text" xml:space="preserve">
+        <source>Total acordo</source>
+        <target>Total acordo</target>
+        <note>Class = "UILabel"; text = "Total acordo"; ObjectID = "As1-Ot-Hrh";</note>
+      </trans-unit>
+      <trans-unit id="AuL-hz-gEa.text" xml:space="preserve">
+        <source>Encargo bolsa</source>
+        <target>Encargo bolsa</target>
+        <note>Class = "UILabel"; text = "Encargo bolsa"; ObjectID = "AuL-hz-gEa";</note>
+      </trans-unit>
+      <trans-unit id="AwN-xZ-U9q.text" xml:space="preserve">
+        <source>MATRICULA:</source>
+        <target>MATRICULA:</target>
+        <note>Class = "UILabel"; text = "MATRICULA:"; ObjectID = "AwN-xZ-U9q";</note>
+      </trans-unit>
+      <trans-unit id="BSw-Cs-yEY.text" xml:space="preserve">
+        <source>U-95-online</source>
+        <target>U-95-online</target>
+        <note>Class = "UILabel"; text = "U-95-online"; ObjectID = "BSw-Cs-yEY";</note>
+      </trans-unit>
+      <trans-unit id="BaB-6C-A4a.text" xml:space="preserve">
+        <source>Endereço</source>
+        <target>Endereço</target>
+        <note>Class = "UILabel"; text = "Endereço"; ObjectID = "BaB-6C-A4a";</note>
+      </trans-unit>
+      <trans-unit id="Bdl-RW-uNs.text" xml:space="preserve">
+        <source>Valor total item</source>
+        <target>Valor total item</target>
+        <note>Class = "UILabel"; text = "Valor total item"; ObjectID = "Bdl-RW-uNs";</note>
+      </trans-unit>
+      <trans-unit id="Bi1-ej-Kej.text" xml:space="preserve">
+        <source>Prazo de entrega</source>
+        <target>Prazo de entrega</target>
+        <note>Class = "UILabel"; text = "Prazo de entrega"; ObjectID = "Bi1-ej-Kej";</note>
+      </trans-unit>
+      <trans-unit id="C3q-Ub-g7V.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "C3q-Ub-g7V";</note>
+      </trans-unit>
+      <trans-unit id="C77-PB-wLV.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "C77-PB-wLV";</note>
+      </trans-unit>
+      <trans-unit id="CAs-Ai-Om9.text" xml:space="preserve">
+        <source>Ordem</source>
+        <target>Ordem</target>
+        <note>Class = "UILabel"; text = "Ordem"; ObjectID = "CAs-Ai-Om9";</note>
+      </trans-unit>
+      <trans-unit id="CCo-PD-bLn.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "CCo-PD-bLn";</note>
+      </trans-unit>
+      <trans-unit id="CEk-0v-qYW.text" xml:space="preserve">
+        <source>Bandeira</source>
+        <target>Bandeira</target>
+        <note>Class = "UILabel"; text = "Bandeira"; ObjectID = "CEk-0v-qYW";</note>
+      </trans-unit>
+      <trans-unit id="CKn-nF-AI9.text" xml:space="preserve">
+        <source>1382477021302130</source>
+        <target>1382477021302130</target>
+        <note>Class = "UILabel"; text = "1382477021302130"; ObjectID = "CKn-nF-AI9";</note>
+      </trans-unit>
+      <trans-unit id="CbB-LC-NEL.text" xml:space="preserve">
+        <source>Observações</source>
+        <target>Observações</target>
+        <note>Class = "UILabel"; text = "Observações"; ObjectID = "CbB-LC-NEL";</note>
+      </trans-unit>
+      <trans-unit id="Cc1-E1-NDb.text" xml:space="preserve">
+        <source>22/10/2020</source>
+        <target>22/10/2020</target>
+        <note>Class = "UILabel"; text = "22/10/2020"; ObjectID = "Cc1-E1-NDb";</note>
+      </trans-unit>
+      <trans-unit id="Cet-kl-H5J.title" xml:space="preserve">
+        <source>Cursos</source>
+        <target>Cursos</target>
+        <note>Class = "UINavigationItem"; title = "Cursos"; ObjectID = "Cet-kl-H5J";</note>
+      </trans-unit>
+      <trans-unit id="CxA-Cz-Aoe.title" xml:space="preserve">
+        <source>Detalhes da Cobrança</source>
+        <target>Detalhes da Cobrança</target>
+        <note>Class = "UINavigationItem"; title = "Detalhes da Cobrança"; ObjectID = "CxA-Cz-Aoe";</note>
+      </trans-unit>
+      <trans-unit id="D0b-5X-9ix.text" xml:space="preserve">
+        <source>Telefone</source>
+        <target>Telefone</target>
+        <note>Class = "UILabel"; text = "Telefone"; ObjectID = "D0b-5X-9ix";</note>
+      </trans-unit>
+      <trans-unit id="DBR-Hx-TjX.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "DBR-Hx-TjX";</note>
+      </trans-unit>
+      <trans-unit id="Dgy-EO-pVy.text" xml:space="preserve">
+        <source>Valor devido</source>
+        <target>Valor devido</target>
+        <note>Class = "UILabel"; text = "Valor devido"; ObjectID = "Dgy-EO-pVy";</note>
+      </trans-unit>
+      <trans-unit id="DlY-kK-qpx.text" xml:space="preserve">
+        <source>Entrada</source>
+        <target>Entrada</target>
+        <note>Class = "UILabel"; text = "Entrada"; ObjectID = "DlY-kK-qpx";</note>
+      </trans-unit>
+      <trans-unit id="Dqw-M1-0Tz.normalTitle" xml:space="preserve">
+        <source>Prosseguir</source>
+        <target>Prosseguir</target>
+        <note>Class = "UIButton"; normalTitle = "Prosseguir"; ObjectID = "Dqw-M1-0Tz";</note>
+      </trans-unit>
+      <trans-unit id="Ds1-c7-3Pp.text" xml:space="preserve">
+        <source>MEDIA DA DISCIPLINA</source>
+        <target>MEDIA DA DISCIPLINA</target>
+        <note>Class = "UILabel"; text = "MEDIA DA DISCIPLINA"; ObjectID = "Ds1-c7-3Pp";</note>
+      </trans-unit>
+      <trans-unit id="E26-aP-Q1H.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "E26-aP-Q1H";</note>
+      </trans-unit>
+      <trans-unit id="EDp-vM-ibK.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "EDp-vM-ibK";</note>
+      </trans-unit>
+      <trans-unit id="EEe-P1-ugp.text" xml:space="preserve">
+        <source>DEBITO GERADO POR EXECUÇÃO DE SERVIÇO: SOLICITAÇÃO 5923053 ITEM 1 [U-8T]</source>
+        <target>DEBITO GERADO POR EXECUÇÃO DE SERVIÇO: SOLICITAÇÃO 5923053 ITEM 1 [U-8T]</target>
+        <note>Class = "UILabel"; text = "DEBITO GERADO POR EXECUÇÃO DE SERVIÇO: SOLICITAÇÃO 5923053 ITEM 1 [U-8T]"; ObjectID = "EEe-P1-ugp";</note>
+      </trans-unit>
+      <trans-unit id="EOe-Le-4Z3.text" xml:space="preserve">
+        <source>15/12/2020</source>
+        <target>15/12/2020</target>
+        <note>Class = "UILabel"; text = "15/12/2020"; ObjectID = "EOe-Le-4Z3";</note>
+      </trans-unit>
+      <trans-unit id="ESZ-T1-Ska.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "ESZ-T1-Ska";</note>
+      </trans-unit>
+      <trans-unit id="ETh-kV-MVo.placeholder" xml:space="preserve">
+        <source>Senha</source>
+        <target>Senha</target>
+        <note>Class = "UITextField"; placeholder = "Senha"; ObjectID = "ETh-kV-MVo";</note>
+      </trans-unit>
+      <trans-unit id="Eb3-IX-HiF.text" xml:space="preserve">
+        <source>10</source>
+        <target>10</target>
+        <note>Class = "UILabel"; text = "10"; ObjectID = "Eb3-IX-HiF";</note>
+      </trans-unit>
+      <trans-unit id="EjC-Ut-uX0.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "EjC-Ut-uX0";</note>
+      </trans-unit>
+      <trans-unit id="Ek7-7M-2Ix.text" xml:space="preserve">
+        <source>ACADEMIA</source>
+        <target>ACADEMIA</target>
+        <note>Class = "UILabel"; text = "ACADEMIA"; ObjectID = "Ek7-7M-2Ix";</note>
+      </trans-unit>
+      <trans-unit id="Erz-cy-Gae.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "Erz-cy-Gae";</note>
+      </trans-unit>
+      <trans-unit id="EtR-ER-S4U.text" xml:space="preserve">
+        <source>SÃO PAULO</source>
+        <target>SÃO PAULO</target>
+        <note>Class = "UILabel"; text = "SÃO PAULO"; ObjectID = "EtR-ER-S4U";</note>
+      </trans-unit>
+      <trans-unit id="EuS-Jj-yDT.text" xml:space="preserve">
+        <source>Encargos</source>
+        <target>Encargos</target>
+        <note>Class = "UILabel"; text = "Encargos"; ObjectID = "EuS-Jj-yDT";</note>
+      </trans-unit>
+      <trans-unit id="Exk-f2-N1Z.text" xml:space="preserve">
+        <source>VELOSO</source>
+        <target>VELOSO</target>
+        <note>Class = "UILabel"; text = "VELOSO"; ObjectID = "Exk-f2-N1Z";</note>
+      </trans-unit>
+      <trans-unit id="FJu-FG-829.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "FJu-FG-829";</note>
+      </trans-unit>
+      <trans-unit id="FRF-SG-VsK.text" xml:space="preserve">
+        <source>INDEFERIDO</source>
+        <target>INDEFERIDO</target>
+        <note>Class = "UILabel"; text = "INDEFERIDO"; ObjectID = "FRF-SG-VsK";</note>
+      </trans-unit>
+      <trans-unit id="FT7-cu-etd.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "FT7-cu-etd";</note>
+      </trans-unit>
+      <trans-unit id="FaL-hj-gtb.title" xml:space="preserve">
+        <source>Atendimento</source>
+        <target>Atendimento</target>
+        <note>Class = "UINavigationItem"; title = "Atendimento"; ObjectID = "FaL-hj-gtb";</note>
+      </trans-unit>
+      <trans-unit id="Fal-q6-s8Z.text" xml:space="preserve">
+        <source>CIDADE UNIVERSITARIA</source>
+        <target>CIDADE UNIVERSITARIA</target>
+        <note>Class = "UILabel"; text = "CIDADE UNIVERSITARIA"; ObjectID = "Fal-q6-s8Z";</note>
+      </trans-unit>
+      <trans-unit id="Faq-AV-xDQ.text" xml:space="preserve">
+        <source>Parcela</source>
+        <target>Parcela</target>
+        <note>Class = "UILabel"; text = "Parcela"; ObjectID = "Faq-AV-xDQ";</note>
+      </trans-unit>
+      <trans-unit id="Fgx-op-lz7.text" xml:space="preserve">
+        <source>Dados do cartão</source>
+        <target>Dados do cartão</target>
+        <note>Class = "UILabel"; text = "Dados do cartão"; ObjectID = "Fgx-op-lz7";</note>
+      </trans-unit>
+      <trans-unit id="Fn4-x4-ajf.text" xml:space="preserve">
+        <source>Alterar</source>
+        <target>Alterar</target>
+        <note>Class = "UILabel"; text = "Alterar"; ObjectID = "Fn4-x4-ajf";</note>
+      </trans-unit>
+      <trans-unit id="FpU-EM-KQZ.text" xml:space="preserve">
+        <source>ACADEMIA</source>
+        <target>ACADEMIA</target>
+        <note>Class = "UILabel"; text = "ACADEMIA"; ObjectID = "FpU-EM-KQZ";</note>
+      </trans-unit>
+      <trans-unit id="Fvw-OS-XiY.text" xml:space="preserve">
+        <source>Parcela</source>
+        <target>Parcela</target>
+        <note>Class = "UILabel"; text = "Parcela"; ObjectID = "Fvw-OS-XiY";</note>
+      </trans-unit>
+      <trans-unit id="G1Y-Ek-bzj.text" xml:space="preserve">
+        <source>Você não possui boletos</source>
+        <target>Você não possui boletos</target>
+        <note>Class = "UILabel"; text = "Você não possui boletos"; ObjectID = "G1Y-Ek-bzj";</note>
+      </trans-unit>
+      <trans-unit id="G8E-Kc-5A8.title" xml:space="preserve">
+        <source>Detalhes da Cobrança</source>
+        <target>Detalhes da Cobrança</target>
+        <note>Class = "UINavigationItem"; title = "Detalhes da Cobrança"; ObjectID = "G8E-Kc-5A8";</note>
+      </trans-unit>
+      <trans-unit id="GDA-Q5-vxp.text" xml:space="preserve">
+        <source>10/10/2020</source>
+        <target>10/10/2020</target>
+        <note>Class = "UILabel"; text = "10/10/2020"; ObjectID = "GDA-Q5-vxp";</note>
+      </trans-unit>
+      <trans-unit id="GGA-GS-yMT.text" xml:space="preserve">
+        <source>TRABALHO DE CURSO</source>
+        <target>TRABALHO DE CURSO</target>
+        <note>Class = "UILabel"; text = "TRABALHO DE CURSO"; ObjectID = "GGA-GS-yMT";</note>
+      </trans-unit>
+      <trans-unit id="GGQ-oP-bLG.text" xml:space="preserve">
+        <source>Enc. progressivo</source>
+        <target>Enc. progressivo</target>
+        <note>Class = "UILabel"; text = "Enc. progressivo"; ObjectID = "GGQ-oP-bLG";</note>
+      </trans-unit>
+      <trans-unit id="GWI-bh-VAd.normalTitle" xml:space="preserve">
+        <source>Simular</source>
+        <target>Simular</target>
+        <note>Class = "UIButton"; normalTitle = "Simular"; ObjectID = "GWI-bh-VAd";</note>
+      </trans-unit>
+      <trans-unit id="Gbx-e4-vhg.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "Gbx-e4-vhg";</note>
+      </trans-unit>
+      <trans-unit id="GmN-JG-g6A.text" xml:space="preserve">
+        <source>Data processamento</source>
+        <target>Data processamento</target>
+        <note>Class = "UILabel"; text = "Data processamento"; ObjectID = "GmN-JG-g6A";</note>
+      </trans-unit>
+      <trans-unit id="GoG-iD-ca6.text" xml:space="preserve">
+        <source>SERVIÇO</source>
+        <target>SERVIÇO</target>
+        <note>Class = "UILabel"; text = "SERVIÇO"; ObjectID = "GoG-iD-ca6";</note>
+      </trans-unit>
+      <trans-unit id="Gor-ZO-OdX.text" xml:space="preserve">
+        <source>Cep</source>
+        <target>Cep</target>
+        <note>Class = "UILabel"; text = "Cep"; ObjectID = "Gor-ZO-OdX";</note>
+      </trans-unit>
+      <trans-unit id="Gpx-rc-N4t.text" xml:space="preserve">
+        <source>01</source>
+        <target>01</target>
+        <note>Class = "UILabel"; text = "01"; ObjectID = "Gpx-rc-N4t";</note>
+      </trans-unit>
+      <trans-unit id="H9v-d8-7dZ.text" xml:space="preserve">
+        <source>Serviços</source>
+        <target>Serviços</target>
+        <note>Class = "UILabel"; text = "Serviços"; ObjectID = "H9v-d8-7dZ";</note>
+      </trans-unit>
+      <trans-unit id="HxS-i7-N7C.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "HxS-i7-N7C";</note>
+      </trans-unit>
+      <trans-unit id="I5v-1g-Obh.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "I5v-1g-Obh";</note>
+      </trans-unit>
+      <trans-unit id="I8C-0n-yc0.text" xml:space="preserve">
+        <source>EM ANDAMENTO</source>
+        <target>EM ANDAMENTO</target>
+        <note>Class = "UILabel"; text = "EM ANDAMENTO"; ObjectID = "I8C-0n-yc0";</note>
+      </trans-unit>
+      <trans-unit id="ICW-Xw-nwM.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "ICW-Xw-nwM";</note>
+      </trans-unit>
+      <trans-unit id="IQi-gY-Y03.text" xml:space="preserve">
+        <source>cidade@unip.br</source>
+        <target>cidade@unip.br</target>
+        <note>Class = "UILabel"; text = "cidade@unip.br"; ObjectID = "IQi-gY-Y03";</note>
+      </trans-unit>
+      <trans-unit id="IRM-5W-ToN.text" xml:space="preserve">
+        <source>AVALIAÇÃO DIAGNOSTICA</source>
+        <target>AVALIAÇÃO DIAGNOSTICA</target>
+        <note>Class = "UILabel"; text = "AVALIAÇÃO DIAGNOSTICA"; ObjectID = "IRM-5W-ToN";</note>
+      </trans-unit>
+      <trans-unit id="ISl-At-Ohx.text" xml:space="preserve">
+        <source>000000</source>
+        <target>000000</target>
+        <note>Class = "UILabel"; text = "000000"; ObjectID = "ISl-At-Ohx";</note>
+      </trans-unit>
+      <trans-unit id="IY4-1A-L49.text" xml:space="preserve">
+        <source>Disciplina</source>
+        <target>Disciplina</target>
+        <note>Class = "UILabel"; text = "Disciplina"; ObjectID = "IY4-1A-L49";</note>
+      </trans-unit>
+      <trans-unit id="IkT-aq-Rgb.text" xml:space="preserve">
+        <source>Dados do Pagamento</source>
+        <target>Dados do Pagamento</target>
+        <note>Class = "UILabel"; text = "Dados do Pagamento"; ObjectID = "IkT-aq-Rgb";</note>
+      </trans-unit>
+      <trans-unit id="IpQ-GS-re5.text" xml:space="preserve">
+        <source>Encargos</source>
+        <target>Encargos</target>
+        <note>Class = "UILabel"; text = "Encargos"; ObjectID = "IpQ-GS-re5";</note>
+      </trans-unit>
+      <trans-unit id="Iyc-kr-iok.text" xml:space="preserve">
+        <source>Cobrança</source>
+        <target>Cobrança</target>
+        <note>Class = "UILabel"; text = "Cobrança"; ObjectID = "Iyc-kr-iok";</note>
+      </trans-unit>
+      <trans-unit id="J5j-Iw-LnM.text" xml:space="preserve">
+        <source>Situação do pagamento</source>
+        <target>Situação do pagamento</target>
+        <note>Class = "UILabel"; text = "Situação do pagamento"; ObjectID = "J5j-Iw-LnM";</note>
+      </trans-unit>
+      <trans-unit id="JB4-fA-aYh.text" xml:space="preserve">
+        <source>28153928</source>
+        <target>28153928</target>
+        <note>Class = "UILabel"; text = "28153928"; ObjectID = "JB4-fA-aYh";</note>
+      </trans-unit>
+      <trans-unit id="JVg-2V-rXj.text" xml:space="preserve">
+        <source>Bolsa</source>
+        <target>Bolsa</target>
+        <note>Class = "UILabel"; text = "Bolsa"; ObjectID = "JVg-2V-rXj";</note>
+      </trans-unit>
+      <trans-unit id="Jed-7t-PIs.text" xml:space="preserve">
+        <source>Data de nascimento</source>
+        <target>Data de nascimento</target>
+        <note>Class = "UILabel"; text = "Data de nascimento"; ObjectID = "Jed-7t-PIs";</note>
+      </trans-unit>
+      <trans-unit id="Jff-cu-FE1.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "Jff-cu-FE1";</note>
+      </trans-unit>
+      <trans-unit id="JjL-bg-Aaj.text" xml:space="preserve">
+        <source>31/08/2020</source>
+        <target>31/08/2020</target>
+        <note>Class = "UILabel"; text = "31/08/2020"; ObjectID = "JjL-bg-Aaj";</note>
+      </trans-unit>
+      <trans-unit id="Jlb-oN-FqV.text" xml:space="preserve">
+        <source>Número</source>
+        <target>Número</target>
+        <note>Class = "UILabel"; text = "Número"; ObjectID = "Jlb-oN-FqV";</note>
+      </trans-unit>
+      <trans-unit id="Jmz-V2-qcz.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Jmz-V2-qcz";</note>
+      </trans-unit>
+      <trans-unit id="Jod-Tx-sYc.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Jod-Tx-sYc";</note>
+      </trans-unit>
+      <trans-unit id="Jr1-ZY-LBb.text" xml:space="preserve">
+        <source>Sua grade ainda não possui disciplinas</source>
+        <target>Sua grade ainda não possui disciplinas</target>
+        <note>Class = "UILabel"; text = "Sua grade ainda não possui disciplinas"; ObjectID = "Jr1-ZY-LBb";</note>
+      </trans-unit>
+      <trans-unit id="Jw6-tY-25X.text" xml:space="preserve">
+        <source>Situação</source>
+        <target>Situação</target>
+        <note>Class = "UILabel"; text = "Situação"; ObjectID = "Jw6-tY-25X";</note>
+      </trans-unit>
+      <trans-unit id="K15-vE-tjy.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "K15-vE-tjy";</note>
+      </trans-unit>
+      <trans-unit id="KE8-EU-oDg.text" xml:space="preserve">
+        <source>Detalhes do acordo</source>
+        <target>Detalhes do acordo</target>
+        <note>Class = "UILabel"; text = "Detalhes do acordo"; ObjectID = "KE8-EU-oDg";</note>
+      </trans-unit>
+      <trans-unit id="KGd-Rn-XoT.text" xml:space="preserve">
+        <source>COMPENSAÇÃO DE FALTAS</source>
+        <target>COMPENSAÇÃO DE FALTAS</target>
+        <note>Class = "UILabel"; text = "COMPENSAÇÃO DE FALTAS"; ObjectID = "KGd-Rn-XoT";</note>
+      </trans-unit>
+      <trans-unit id="KHm-Np-UE9.title" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UINavigationItem"; title = "Serviço"; ObjectID = "KHm-Np-UE9";</note>
+      </trans-unit>
+      <trans-unit id="KZY-mj-ugu.text" xml:space="preserve">
+        <source>ACORDO ON-LINE</source>
+        <target>ACORDO ON-LINE</target>
+        <note>Class = "UILabel"; text = "ACORDO ON-LINE"; ObjectID = "KZY-mj-ugu";</note>
+      </trans-unit>
+      <trans-unit id="KZb-Ce-Ffz.text" xml:space="preserve">
+        <source>27569820835</source>
+        <target>27569820835</target>
+        <note>Class = "UILabel"; text = "27569820835"; ObjectID = "KZb-Ce-Ffz";</note>
+      </trans-unit>
+      <trans-unit id="Kf6-It-ysD.text" xml:space="preserve">
+        <source>Valor a pagar</source>
+        <target>Valor a pagar</target>
+        <note>Class = "UILabel"; text = "Valor a pagar"; ObjectID = "Kf6-It-ysD";</note>
+      </trans-unit>
+      <trans-unit id="KlC-v3-mVm.placeholder" xml:space="preserve">
+        <source>Nome imprenso no cartão</source>
+        <target>Nome imprenso no cartão</target>
+        <note>Class = "UITextField"; placeholder = "Nome imprenso no cartão"; ObjectID = "KlC-v3-mVm";</note>
+      </trans-unit>
+      <trans-unit id="Knm-yc-phq.text" xml:space="preserve">
+        <source>Data do aceite</source>
+        <target>Data do aceite</target>
+        <note>Class = "UILabel"; text = "Data do aceite"; ObjectID = "Knm-yc-phq";</note>
+      </trans-unit>
+      <trans-unit id="L3L-Ul-6WP.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "L3L-Ul-6WP";</note>
+      </trans-unit>
+      <trans-unit id="Lrb-yo-Tne.text" xml:space="preserve">
+        <source>Valor unitário</source>
+        <target>Valor unitário</target>
+        <note>Class = "UILabel"; text = "Valor unitário"; ObjectID = "Lrb-yo-Tne";</note>
+      </trans-unit>
+      <trans-unit id="Lwk-Fl-xgr.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "Lwk-Fl-xgr";</note>
+      </trans-unit>
+      <trans-unit id="Lxo-zq-PwP.text" xml:space="preserve">
+        <source>Data do pagamento</source>
+        <target>Data do pagamento</target>
+        <note>Class = "UILabel"; text = "Data do pagamento"; ObjectID = "Lxo-zq-PwP";</note>
+      </trans-unit>
+      <trans-unit id="M0j-kb-CJs.text" xml:space="preserve">
+        <source>CURSANDO</source>
+        <target>CURSANDO</target>
+        <note>Class = "UILabel"; text = "CURSANDO"; ObjectID = "M0j-kb-CJs";</note>
+      </trans-unit>
+      <trans-unit id="M2F-xZ-SNO.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "M2F-xZ-SNO";</note>
+      </trans-unit>
+      <trans-unit id="MK2-hw-vug.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "MK2-hw-vug";</note>
+      </trans-unit>
+      <trans-unit id="MSM-LH-9pV.title" xml:space="preserve">
+        <source>Serviços solicitáveis</source>
+        <target>Serviços solicitáveis</target>
+        <note>Class = "UINavigationItem"; title = "Serviços solicitáveis"; ObjectID = "MSM-LH-9pV";</note>
+      </trans-unit>
+      <trans-unit id="Mg8-A6-wcW.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "Mg8-A6-wcW";</note>
+      </trans-unit>
+      <trans-unit id="Mj2-x2-DjR.text" xml:space="preserve">
+        <source>Turma</source>
+        <target>Turma</target>
+        <note>Class = "UILabel"; text = "Turma"; ObjectID = "Mj2-x2-DjR";</note>
+      </trans-unit>
+      <trans-unit id="Mpd-st-glt.text" xml:space="preserve">
+        <source>08/10/2019 22:34:34</source>
+        <target>08/10/2019 22:34:34</target>
+        <note>Class = "UILabel"; text = "08/10/2019 22:34:34"; ObjectID = "Mpd-st-glt";</note>
+      </trans-unit>
+      <trans-unit id="Mrv-3W-MjN.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Mrv-3W-MjN";</note>
+      </trans-unit>
+      <trans-unit id="Mse-lI-wBe.text" xml:space="preserve">
+        <source>Contrato aceito</source>
+        <target>Contrato aceito</target>
+        <note>Class = "UILabel"; text = "Contrato aceito"; ObjectID = "Mse-lI-wBe";</note>
+      </trans-unit>
+      <trans-unit id="N7R-U5-0Jm.text" xml:space="preserve">
+        <source>Estado</source>
+        <target>Estado</target>
+        <note>Class = "UILabel"; text = "Estado"; ObjectID = "N7R-U5-0Jm";</note>
+      </trans-unit>
+      <trans-unit id="N9k-YH-8VJ.text" xml:space="preserve">
+        <source>Nenhum contrato foi localizado</source>
+        <target>Nenhum contrato foi localizado</target>
+        <note>Class = "UILabel"; text = "Nenhum contrato foi localizado"; ObjectID = "N9k-YH-8VJ";</note>
+      </trans-unit>
+      <trans-unit id="N32-l5-cH0.text" xml:space="preserve">
+        <source>Li o contrato e aceito os termos</source>
+        <target>Li o contrato e aceito os termos</target>
+        <note>Class = "UILabel"; text = "Li o contrato e aceito os termos"; ObjectID = "N32-l5-cH0";</note>
+      </trans-unit>
+      <trans-unit id="NBA-xH-DCv.text" xml:space="preserve">
+        <source>Enc. bolsa</source>
+        <target>Enc. bolsa</target>
+        <note>Class = "UILabel"; text = "Enc. bolsa"; ObjectID = "NBA-xH-DCv";</note>
+      </trans-unit>
+      <trans-unit id="NCA-M3-Xi7.text" xml:space="preserve">
+        <source>Parcelas</source>
+        <target>Parcelas</target>
+        <note>Class = "UILabel"; text = "Parcelas"; ObjectID = "NCA-M3-Xi7";</note>
+      </trans-unit>
+      <trans-unit id="NFr-0y-tmv.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "NFr-0y-tmv";</note>
+      </trans-unit>
+      <trans-unit id="NGU-56-XgX.text" xml:space="preserve">
+        <source>Encargo</source>
+        <target>Encargo</target>
+        <note>Class = "UILabel"; text = "Encargo"; ObjectID = "NGU-56-XgX";</note>
+      </trans-unit>
+      <trans-unit id="NLp-Zt-Dzh.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "NLp-Zt-Dzh";</note>
+      </trans-unit>
+      <trans-unit id="NNW-qb-P74.text" xml:space="preserve">
+        <source>SIM</source>
+        <target>SIM</target>
+        <note>Class = "UILabel"; text = "SIM"; ObjectID = "NNW-qb-P74";</note>
+      </trans-unit>
+      <trans-unit id="NRL-o4-13s.text" xml:space="preserve">
+        <source>Não existem avisos para você</source>
+        <target>Não existem avisos para você</target>
+        <note>Class = "UILabel"; text = "Não existem avisos para você"; ObjectID = "NRL-o4-13s";</note>
+      </trans-unit>
+      <trans-unit id="NSc-Gz-wJt.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "NSc-Gz-wJt";</note>
+      </trans-unit>
+      <trans-unit id="O5N-lV-YXg.text" xml:space="preserve">
+        <source>MASCULINO</source>
+        <target>MASCULINO</target>
+        <note>Class = "UILabel"; text = "MASCULINO"; ObjectID = "O5N-lV-YXg";</note>
+      </trans-unit>
+      <trans-unit id="OBt-SL-g5H.text" xml:space="preserve">
+        <source>Bairro</source>
+        <target>Bairro</target>
+        <note>Class = "UILabel"; text = "Bairro"; ObjectID = "OBt-SL-g5H";</note>
+      </trans-unit>
+      <trans-unit id="OaR-VH-d4j.normalTitle" xml:space="preserve">
+        <source>Alterar</source>
+        <target>Alterar</target>
+        <note>Class = "UIButton"; normalTitle = "Alterar"; ObjectID = "OaR-VH-d4j";</note>
+      </trans-unit>
+      <trans-unit id="Ozp-jK-YyB.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "Ozp-jK-YyB";</note>
+      </trans-unit>
+      <trans-unit id="P2X-u9-yoc.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "P2X-u9-yoc";</note>
+      </trans-unit>
+      <trans-unit id="P4I-8s-7Ap.text" xml:space="preserve">
+        <source>21/11/2020</source>
+        <target>21/11/2020</target>
+        <note>Class = "UILabel"; text = "21/11/2020"; ObjectID = "P4I-8s-7Ap";</note>
+      </trans-unit>
+      <trans-unit id="P5o-K5-zIV.text" xml:space="preserve">
+        <source>10.0</source>
+        <target>10.0</target>
+        <note>Class = "UILabel"; text = "10.0"; ObjectID = "P5o-K5-zIV";</note>
+      </trans-unit>
+      <trans-unit id="P7H-ut-bGU.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "P7H-ut-bGU";</note>
+      </trans-unit>
+      <trans-unit id="P26-Bm-J9O.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "P26-Bm-J9O";</note>
+      </trans-unit>
+      <trans-unit id="PKb-zN-lVG.text" xml:space="preserve">
+        <source>Não localizei disciplinas matriculadas</source>
+        <target>Não localizei disciplinas matriculadas</target>
+        <note>Class = "UILabel"; text = "Não localizei disciplinas matriculadas"; ObjectID = "PKb-zN-lVG";</note>
+      </trans-unit>
+      <trans-unit id="PNx-JN-MCg.text" xml:space="preserve">
+        <source>Tipo</source>
+        <target>Tipo</target>
+        <note>Class = "UILabel"; text = "Tipo"; ObjectID = "PNx-JN-MCg";</note>
+      </trans-unit>
+      <trans-unit id="PU3-LY-4la.text" xml:space="preserve">
+        <source>Valor Total a Pagar</source>
+        <target>Valor Total a Pagar</target>
+        <note>Class = "UILabel"; text = "Valor Total a Pagar"; ObjectID = "PU3-LY-4la";</note>
+      </trans-unit>
+      <trans-unit id="PYy-03-A6r.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "PYy-03-A6r";</note>
+      </trans-unit>
+      <trans-unit id="Pog-eF-R58.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Pog-eF-R58";</note>
+      </trans-unit>
+      <trans-unit id="PrD-Y8-qo9.text" xml:space="preserve">
+        <source>60</source>
+        <target>60</target>
+        <note>Class = "UILabel"; text = "60"; ObjectID = "PrD-Y8-qo9";</note>
+      </trans-unit>
+      <trans-unit id="Q3Z-Zv-WJb.text" xml:space="preserve">
+        <source>APROVADO</source>
+        <target>APROVADO</target>
+        <note>Class = "UILabel"; text = "APROVADO"; ObjectID = "Q3Z-Zv-WJb";</note>
+      </trans-unit>
+      <trans-unit id="Q5o-4D-dnE.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "Q5o-4D-dnE";</note>
+      </trans-unit>
+      <trans-unit id="QEl-nE-9EH.placeholder" xml:space="preserve">
+        <source>Numero</source>
+        <target>Numero</target>
+        <note>Class = "UITextField"; placeholder = "Numero"; ObjectID = "QEl-nE-9EH";</note>
+      </trans-unit>
+      <trans-unit id="QJc-wS-olu.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "QJc-wS-olu";</note>
+      </trans-unit>
+      <trans-unit id="QOS-y2-qfe.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "QOS-y2-qfe";</note>
+      </trans-unit>
+      <trans-unit id="QbG-E6-xOp.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "QbG-E6-xOp";</note>
+      </trans-unit>
+      <trans-unit id="QsX-A7-dP7.text" xml:space="preserve">
+        <source>APROVADO</source>
+        <target>APROVADO</target>
+        <note>Class = "UILabel"; text = "APROVADO"; ObjectID = "QsX-A7-dP7";</note>
+      </trans-unit>
+      <trans-unit id="QtO-YK-N11.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "QtO-YK-N11";</note>
+      </trans-unit>
+      <trans-unit id="Qvb-sW-Dmx.title" xml:space="preserve">
+        <source>Acordos</source>
+        <target>Acordos</target>
+        <note>Class = "UINavigationItem"; title = "Acordos"; ObjectID = "Qvb-sW-Dmx";</note>
+      </trans-unit>
+      <trans-unit id="R0l-fy-bfl.text" xml:space="preserve">
+        <source>DINAMICA DAS RELAÇÕES INTERPESSOAIS DA TER</source>
+        <target>DINAMICA DAS RELAÇÕES INTERPESSOAIS DA TER</target>
+        <note>Class = "UILabel"; text = "DINAMICA DAS RELAÇÕES INTERPESSOAIS DA TER"; ObjectID = "R0l-fy-bfl";</note>
+      </trans-unit>
+      <trans-unit id="R7Q-7s-POJ.normalTitle" xml:space="preserve">
+        <source>Detalhes</source>
+        <target>Detalhes</target>
+        <note>Class = "UIButton"; normalTitle = "Detalhes"; ObjectID = "R7Q-7s-POJ";</note>
+      </trans-unit>
+      <trans-unit id="RUr-w5-nQw.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "RUr-w5-nQw";</note>
+      </trans-unit>
+      <trans-unit id="RWf-Sj-ly9.text" xml:space="preserve">
+        <source>Motivo</source>
+        <target>Motivo</target>
+        <note>Class = "UILabel"; text = "Motivo"; ObjectID = "RWf-Sj-ly9";</note>
+      </trans-unit>
+      <trans-unit id="RYq-lF-YiF.text" xml:space="preserve">
+        <source>Valor total</source>
+        <target>Valor total</target>
+        <note>Class = "UILabel"; text = "Valor total"; ObjectID = "RYq-lF-YiF";</note>
+      </trans-unit>
+      <trans-unit id="RbZ-cm-IWS.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "RbZ-cm-IWS";</note>
+      </trans-unit>
+      <trans-unit id="RhV-R8-ImG.text" xml:space="preserve">
+        <source>Situação</source>
+        <target>Situação</target>
+        <note>Class = "UILabel"; text = "Situação"; ObjectID = "RhV-R8-ImG";</note>
+      </trans-unit>
+      <trans-unit id="Rsc-hF-lJT.text" xml:space="preserve">
+        <source>R$ 000,00</source>
+        <target>R$ 000,00</target>
+        <note>Class = "UILabel"; text = "R$ 000,00"; ObjectID = "Rsc-hF-lJT";</note>
+      </trans-unit>
+      <trans-unit id="Rtr-H3-4BT.text" xml:space="preserve">
+        <source>MÉDIA DA DISCIPLINA</source>
+        <target>MÉDIA DA DISCIPLINA</target>
+        <note>Class = "UILabel"; text = "MÉDIA DA DISCIPLINA"; ObjectID = "Rtr-H3-4BT";</note>
+      </trans-unit>
+      <trans-unit id="S4c-OG-lKy.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "S4c-OG-lKy";</note>
+      </trans-unit>
+      <trans-unit id="SA4-JP-iRu.text" xml:space="preserve">
+        <source>Parcelas</source>
+        <target>Parcelas</target>
+        <note>Class = "UILabel"; text = "Parcelas"; ObjectID = "SA4-JP-iRu";</note>
+      </trans-unit>
+      <trans-unit id="SAk-P9-AM8.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "SAk-P9-AM8";</note>
+      </trans-unit>
+      <trans-unit id="SNq-M3-s6X.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "SNq-M3-s6X";</note>
+      </trans-unit>
+      <trans-unit id="SVA-04-Jt0.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "SVA-04-Jt0";</note>
+      </trans-unit>
+      <trans-unit id="Sa5-KU-JIO.placeholder" xml:space="preserve">
+        <source>Código de segurança</source>
+        <target>Código de segurança</target>
+        <note>Class = "UITextField"; placeholder = "Código de segurança"; ObjectID = "Sa5-KU-JIO";</note>
+      </trans-unit>
+      <trans-unit id="Sao-Al-ywX.text" xml:space="preserve">
+        <source>Sua carteirinha não esta ativa, por gentileza procure a secretaria</source>
+        <target>Sua carteirinha não esta ativa, por gentileza procure a secretaria</target>
+        <note>Class = "UILabel"; text = "Sua carteirinha não esta ativa, por gentileza procure a secretaria"; ObjectID = "Sao-Al-ywX";</note>
+      </trans-unit>
+      <trans-unit id="Sb3-RL-vPO.normalTitle" xml:space="preserve">
+        <source>Boleto</source>
+        <target>Boleto</target>
+        <note>Class = "UIButton"; normalTitle = "Boleto"; ObjectID = "Sb3-RL-vPO";</note>
+      </trans-unit>
+      <trans-unit id="Sbw-bA-W2o.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "Sbw-bA-W2o";</note>
+      </trans-unit>
+      <trans-unit id="ScV-gV-efr.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "ScV-gV-efr";</note>
+      </trans-unit>
+      <trans-unit id="SoQ-uC-rBx.text" xml:space="preserve">
+        <source>1122</source>
+        <target>1122</target>
+        <note>Class = "UILabel"; text = "1122"; ObjectID = "SoQ-uC-rBx";</note>
+      </trans-unit>
+      <trans-unit id="SzB-bw-Pya.text" xml:space="preserve">
+        <source>Julio Cesar dos Santos Figueiredo</source>
+        <target>Julio Cesar dos Santos Figueiredo</target>
+        <note>Class = "UILabel"; text = "Julio Cesar dos Santos Figueiredo"; ObjectID = "SzB-bw-Pya";</note>
+      </trans-unit>
+      <trans-unit id="T9j-2g-Opf.text" xml:space="preserve">
+        <source>02/10/2020</source>
+        <target>02/10/2020</target>
+        <note>Class = "UILabel"; text = "02/10/2020"; ObjectID = "T9j-2g-Opf";</note>
+      </trans-unit>
+      <trans-unit id="TBg-dO-vET.text" xml:space="preserve">
+        <source>Local</source>
+        <target>Local</target>
+        <note>Class = "UILabel"; text = "Local"; ObjectID = "TBg-dO-vET";</note>
+      </trans-unit>
+      <trans-unit id="TF1-fg-xzs.normalTitle" xml:space="preserve">
+        <source>Pagar com cartão</source>
+        <target>Pagar com cartão</target>
+        <note>Class = "UIButton"; normalTitle = "Pagar com cartão"; ObjectID = "TF1-fg-xzs";</note>
+      </trans-unit>
+      <trans-unit id="TGf-JT-bFF.text" xml:space="preserve">
+        <source>Nenhuma notícia localizada</source>
+        <target>Nenhuma notícia localizada</target>
+        <note>Class = "UILabel"; text = "Nenhuma notícia localizada"; ObjectID = "TGf-JT-bFF";</note>
+      </trans-unit>
+      <trans-unit id="THA-hv-Yfu.text" xml:space="preserve">
+        <source>**************</source>
+        <target>**************</target>
+        <note>Class = "UILabel"; text = "**************"; ObjectID = "THA-hv-Yfu";</note>
+      </trans-unit>
+      <trans-unit id="TKO-Hg-MiT.normalTitle" xml:space="preserve">
+        <source>Confirmar informações e aceitar o acordo</source>
+        <target>Confirmar informações e aceitar o acordo</target>
+        <note>Class = "UIButton"; normalTitle = "Confirmar informações e aceitar o acordo"; ObjectID = "TKO-Hg-MiT";</note>
+      </trans-unit>
+      <trans-unit id="TOh-bt-383.text" xml:space="preserve">
+        <source>Título</source>
+        <target>Título</target>
+        <note>Class = "UILabel"; text = "Título"; ObjectID = "TOh-bt-383";</note>
+      </trans-unit>
+      <trans-unit id="TXW-Hc-Quy.normalTitle" xml:space="preserve">
+        <source>Adicionar serviço</source>
+        <target>Adicionar serviço</target>
+        <note>Class = "UIButton"; normalTitle = "Adicionar serviço"; ObjectID = "TXW-Hc-Quy";</note>
+      </trans-unit>
+      <trans-unit id="TYz-EU-sNk.text" xml:space="preserve">
+        <source>Você não possui cobranças a pagar</source>
+        <target>Você não possui cobranças a pagar</target>
+        <note>Class = "UILabel"; text = "Você não possui cobranças a pagar"; ObjectID = "TYz-EU-sNk";</note>
+      </trans-unit>
+      <trans-unit id="Tai-jg-zhi.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "Tai-jg-zhi";</note>
+      </trans-unit>
+      <trans-unit id="Ths-kj-9vj.text" xml:space="preserve">
+        <source>xxxx.xxxx.xxxx.1112</source>
+        <target>xxxx.xxxx.xxxx.1112</target>
+        <note>Class = "UILabel"; text = "xxxx.xxxx.xxxx.1112"; ObjectID = "Ths-kj-9vj";</note>
+      </trans-unit>
+      <trans-unit id="TrQ-ZX-cME.text" xml:space="preserve">
+        <source>12/09/2020</source>
+        <target>12/09/2020</target>
+        <note>Class = "UILabel"; text = "12/09/2020"; ObjectID = "TrQ-ZX-cME";</note>
+      </trans-unit>
+      <trans-unit id="UMU-sX-jeS.text" xml:space="preserve">
+        <source>Descontos</source>
+        <target>Descontos</target>
+        <note>Class = "UILabel"; text = "Descontos"; ObjectID = "UMU-sX-jeS";</note>
+      </trans-unit>
+      <trans-unit id="UOD-fh-H5s.text" xml:space="preserve">
+        <source>234567</source>
+        <target>234567</target>
+        <note>Class = "UILabel"; text = "234567"; ObjectID = "UOD-fh-H5s";</note>
+      </trans-unit>
+      <trans-unit id="UXG-0f-kva.text" xml:space="preserve">
+        <source>NSU</source>
+        <target>NSU</target>
+        <note>Class = "UILabel"; text = "NSU"; ObjectID = "UXG-0f-kva";</note>
+      </trans-unit>
+      <trans-unit id="Uah-jO-eee.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "Uah-jO-eee";</note>
+      </trans-unit>
+      <trans-unit id="UbZ-XY-C5E.normalTitle" xml:space="preserve">
+        <source>Adicionar serviço</source>
+        <target>Adicionar serviço</target>
+        <note>Class = "UIButton"; normalTitle = "Adicionar serviço"; ObjectID = "UbZ-XY-C5E";</note>
+      </trans-unit>
+      <trans-unit id="UcP-Ty-rhu.normalTitle" xml:space="preserve">
+        <source>Adicionar serviço</source>
+        <target>Adicionar serviço</target>
+        <note>Class = "UIButton"; normalTitle = "Adicionar serviço"; ObjectID = "UcP-Ty-rhu";</note>
+      </trans-unit>
+      <trans-unit id="Ucx-bg-hgo.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "Ucx-bg-hgo";</note>
+      </trans-unit>
+      <trans-unit id="Udk-xd-xpG.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "Udk-xd-xpG";</note>
+      </trans-unit>
+      <trans-unit id="UfL-q0-neg.text" xml:space="preserve">
+        <source>Valor selecionado</source>
+        <target>Valor selecionado</target>
+        <note>Class = "UILabel"; text = "Valor selecionado"; ObjectID = "UfL-q0-neg";</note>
+      </trans-unit>
+      <trans-unit id="VAX-FN-GKZ.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "VAX-FN-GKZ";</note>
+      </trans-unit>
+      <trans-unit id="VBr-0T-bj8.title" xml:space="preserve">
+        <source>Cartão de Credito</source>
+        <target>Cartão de Credito</target>
+        <note>Class = "UINavigationItem"; title = "Cartão de Credito"; ObjectID = "VBr-0T-bj8";</note>
+      </trans-unit>
+      <trans-unit id="VCR-sq-1ct.text" xml:space="preserve">
+        <source>Valor devido</source>
+        <target>Valor devido</target>
+        <note>Class = "UILabel"; text = "Valor devido"; ObjectID = "VCR-sq-1ct";</note>
+      </trans-unit>
+      <trans-unit id="VFb-3l-eL7.text" xml:space="preserve">
+        <source>28/09/2020</source>
+        <target>28/09/2020</target>
+        <note>Class = "UILabel"; text = "28/09/2020"; ObjectID = "VFb-3l-eL7";</note>
+      </trans-unit>
+      <trans-unit id="VT8-0K-XRF.text" xml:space="preserve">
+        <source>Código de barras</source>
+        <target>Código de barras</target>
+        <note>Class = "UILabel"; text = "Código de barras"; ObjectID = "VT8-0K-XRF";</note>
+      </trans-unit>
+      <trans-unit id="VVj-Ie-xoM.normalTitle" xml:space="preserve">
+        <source>Adicionar foto</source>
+        <target>Adicionar foto</target>
+        <note>Class = "UIButton"; normalTitle = "Adicionar foto"; ObjectID = "VVj-Ie-xoM";</note>
+      </trans-unit>
+      <trans-unit id="Vas-wh-Rc3.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "Vas-wh-Rc3";</note>
+      </trans-unit>
+      <trans-unit id="VfE-uO-2oN.text" xml:space="preserve">
+        <source>22/10/2020</source>
+        <target>22/10/2020</target>
+        <note>Class = "UILabel"; text = "22/10/2020"; ObjectID = "VfE-uO-2oN";</note>
+      </trans-unit>
+      <trans-unit id="VfJ-cV-wSS.text" xml:space="preserve">
+        <source>Status</source>
+        <target>Status</target>
+        <note>Class = "UILabel"; text = "Status"; ObjectID = "VfJ-cV-wSS";</note>
+      </trans-unit>
+      <trans-unit id="VhW-3d-CeJ.text" xml:space="preserve">
+        <source>Pagamento</source>
+        <target>Pagamento</target>
+        <note>Class = "UILabel"; text = "Pagamento"; ObjectID = "VhW-3d-CeJ";</note>
+      </trans-unit>
+      <trans-unit id="VnS-ak-pa1.text" xml:space="preserve">
+        <source>Código da solicitação</source>
+        <target>Código da solicitação</target>
+        <note>Class = "UILabel"; text = "Código da solicitação"; ObjectID = "VnS-ak-pa1";</note>
+      </trans-unit>
+      <trans-unit id="VyH-Du-3vG.text" xml:space="preserve">
+        <source>Dados do Faturamento</source>
+        <target>Dados do Faturamento</target>
+        <note>Class = "UILabel"; text = "Dados do Faturamento"; ObjectID = "VyH-Du-3vG";</note>
+      </trans-unit>
+      <trans-unit id="WKo-WC-Fhv.placeholder" xml:space="preserve">
+        <source>Mês validade</source>
+        <target>Mês validade</target>
+        <note>Class = "UITextField"; placeholder = "Mês validade"; ObjectID = "WKo-WC-Fhv";</note>
+      </trans-unit>
+      <trans-unit id="WQJ-Rc-VPt.title" xml:space="preserve">
+        <source>Notas</source>
+        <target>Notas</target>
+        <note>Class = "UINavigationItem"; title = "Notas"; ObjectID = "WQJ-Rc-VPt";</note>
+      </trans-unit>
+      <trans-unit id="WRM-sr-8CU.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "WRM-sr-8CU";</note>
+      </trans-unit>
+      <trans-unit id="WXq-5s-iSv.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "WXq-5s-iSv";</note>
+      </trans-unit>
+      <trans-unit id="Wdz-sJ-6Fg.text" xml:space="preserve">
+        <source>Final do cartão</source>
+        <target>Final do cartão</target>
+        <note>Class = "UILabel"; text = "Final do cartão"; ObjectID = "Wdz-sJ-6Fg";</note>
+      </trans-unit>
+      <trans-unit id="Wla-MZ-hBt.text" xml:space="preserve">
+        <source>Osasco</source>
+        <target>Osasco</target>
+        <note>Class = "UILabel"; text = "Osasco"; ObjectID = "Wla-MZ-hBt";</note>
+      </trans-unit>
+      <trans-unit id="X4G-8F-NaN.placeholder" xml:space="preserve">
+        <source>País </source>
+        <target>País </target>
+        <note>Class = "UITextField"; placeholder = "País "; ObjectID = "X4G-8F-NaN";</note>
+      </trans-unit>
+      <trans-unit id="XC4-hZ-pLH.text" xml:space="preserve">
+        <source>Sexo</source>
+        <target>Sexo</target>
+        <note>Class = "UILabel"; text = "Sexo"; ObjectID = "XC4-hZ-pLH";</note>
+      </trans-unit>
+      <trans-unit id="XD1-Ty-KVq.text" xml:space="preserve">
+        <source>Dados do pedido</source>
+        <target>Dados do pedido</target>
+        <note>Class = "UILabel"; text = "Dados do pedido"; ObjectID = "XD1-Ty-KVq";</note>
+      </trans-unit>
+      <trans-unit id="XUA-1t-gM0.text" xml:space="preserve">
+        <source>5 dias</source>
+        <target>5 dias</target>
+        <note>Class = "UILabel"; text = "5 dias"; ObjectID = "XUA-1t-gM0";</note>
+      </trans-unit>
+      <trans-unit id="Xa0-Z3-hup.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Xa0-Z3-hup";</note>
+      </trans-unit>
+      <trans-unit id="Xdq-nc-Yp3.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "Xdq-nc-Yp3";</note>
+      </trans-unit>
+      <trans-unit id="Xgl-RP-h0Q.text" xml:space="preserve">
+        <source>Valor a pagar</source>
+        <target>Valor a pagar</target>
+        <note>Class = "UILabel"; text = "Valor a pagar"; ObjectID = "Xgl-RP-h0Q";</note>
+      </trans-unit>
+      <trans-unit id="Xmm-hR-TaA.title" xml:space="preserve">
+        <source>Disciplinas</source>
+        <target>Disciplinas</target>
+        <note>Class = "UINavigationItem"; title = "Disciplinas"; ObjectID = "Xmm-hR-TaA";</note>
+      </trans-unit>
+      <trans-unit id="Y2V-8S-1Kj.text" xml:space="preserve">
+        <source>Status</source>
+        <target>Status</target>
+        <note>Class = "UILabel"; text = "Status"; ObjectID = "Y2V-8S-1Kj";</note>
+      </trans-unit>
+      <trans-unit id="Y9n-sy-yHf.normalTitle" xml:space="preserve">
+        <source>Fechar</source>
+        <target>Fechar</target>
+        <note>Class = "UIButton"; normalTitle = "Fechar"; ObjectID = "Y9n-sy-yHf";</note>
+      </trans-unit>
+      <trans-unit id="Y37-z2-mad.text" xml:space="preserve">
+        <source>Avenida Torres de Oliveira 330 Jaguaré São Paulo - SP Cep 06160-040</source>
+        <target>Avenida Torres de Oliveira 330 Jaguaré São Paulo - SP Cep 06160-040</target>
+        <note>Class = "UILabel"; text = "Avenida Torres de Oliveira 330 Jaguaré São Paulo - SP Cep 06160-040"; ObjectID = "Y37-z2-mad";</note>
+      </trans-unit>
+      <trans-unit id="YAV-O5-kDW.text" xml:space="preserve">
+        <source>EM ANDAMENTO</source>
+        <target>EM ANDAMENTO</target>
+        <note>Class = "UILabel"; text = "EM ANDAMENTO"; ObjectID = "YAV-O5-kDW";</note>
+      </trans-unit>
+      <trans-unit id="YCp-0v-bb9.normalTitle" xml:space="preserve">
+        <source>Cancelar</source>
+        <target>Cancelar</target>
+        <note>Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "YCp-0v-bb9";</note>
+      </trans-unit>
+      <trans-unit id="YDv-NS-IqU.text" xml:space="preserve">
+        <source>Nenhum serviço disponível</source>
+        <target>Nenhum serviço disponível</target>
+        <note>Class = "UILabel"; text = "Nenhum serviço disponível"; ObjectID = "YDv-NS-IqU";</note>
+      </trans-unit>
+      <trans-unit id="YVb-Mj-xVG.text" xml:space="preserve">
+        <source>Veja as localizações dos campi da UNIP</source>
+        <target>Veja as localizações dos campi da UNIP</target>
+        <note>Class = "UILabel"; text = "Veja as localizações dos campi da UNIP"; ObjectID = "YVb-Mj-xVG";</note>
+      </trans-unit>
+      <trans-unit id="YVh-eZ-bV9.text" xml:space="preserve">
+        <source>Cobrança</source>
+        <target>Cobrança</target>
+        <note>Class = "UILabel"; text = "Cobrança"; ObjectID = "YVh-eZ-bV9";</note>
+      </trans-unit>
+      <trans-unit id="YWS-6g-v3G.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "YWS-6g-v3G";</note>
+      </trans-unit>
+      <trans-unit id="YWl-eH-Qwg.text" xml:space="preserve">
+        <source>05/10/2020</source>
+        <target>05/10/2020</target>
+        <note>Class = "UILabel"; text = "05/10/2020"; ObjectID = "YWl-eH-Qwg";</note>
+      </trans-unit>
+      <trans-unit id="Ygv-iJ-eRs.normalTitle" xml:space="preserve">
+        <source>Cobranças acordadas</source>
+        <target>Cobranças acordadas</target>
+        <note>Class = "UIButton"; normalTitle = "Cobranças acordadas"; ObjectID = "Ygv-iJ-eRs";</note>
+      </trans-unit>
+      <trans-unit id="Yik-TL-pnA.text" xml:space="preserve">
+        <source>Valor do acordo</source>
+        <target>Valor do acordo</target>
+        <note>Class = "UILabel"; text = "Valor do acordo"; ObjectID = "Yik-TL-pnA";</note>
+      </trans-unit>
+      <trans-unit id="YjD-pb-hMb.text" xml:space="preserve">
+        <source>Versão do app 1.0</source>
+        <target>Versão do app 1.0</target>
+        <note>Class = "UILabel"; text = "Versão do app 1.0"; ObjectID = "YjD-pb-hMb";</note>
+      </trans-unit>
+      <trans-unit id="Yxu-vK-Yf0.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Yxu-vK-Yf0";</note>
+      </trans-unit>
+      <trans-unit id="Z0F-Ia-xtY.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "Z0F-Ia-xtY";</note>
+      </trans-unit>
+      <trans-unit id="Z7z-GS-4T9.normalTitle" xml:space="preserve">
+        <source>Copiar código</source>
+        <target>Copiar código</target>
+        <note>Class = "UIButton"; normalTitle = "Copiar código"; ObjectID = "Z7z-GS-4T9";</note>
+      </trans-unit>
+      <trans-unit id="ZLC-qO-hUR.title" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UITabBarItem"; title = "Home"; ObjectID = "ZLC-qO-hUR";</note>
+      </trans-unit>
+      <trans-unit id="Zjl-ET-zWo.text" xml:space="preserve">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UILabel"; text = "Email"; ObjectID = "Zjl-ET-zWo";</note>
+      </trans-unit>
+      <trans-unit id="Zjz-gQ-EFz.text" xml:space="preserve">
+        <source>34343434343434343434343434343434343434343434</source>
+        <target>34343434343434343434343434343434343434343434</target>
+        <note>Class = "UILabel"; text = "34343434343434343434343434343434343434343434"; ObjectID = "Zjz-gQ-EFz";</note>
+      </trans-unit>
+      <trans-unit id="Zzc-mh-SJJ.title" xml:space="preserve">
+        <source>Itens do boleto</source>
+        <target>Itens do boleto</target>
+        <note>Class = "UINavigationItem"; title = "Itens do boleto"; ObjectID = "Zzc-mh-SJJ";</note>
+      </trans-unit>
+      <trans-unit id="a0K-Rt-12h.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "a0K-Rt-12h";</note>
+      </trans-unit>
+      <trans-unit id="a19-Qq-P0Z.normalTitle" xml:space="preserve">
+        <source>Prosseguir</source>
+        <target>Prosseguir</target>
+        <note>Class = "UIButton"; normalTitle = "Prosseguir"; ObjectID = "a19-Qq-P0Z";</note>
+      </trans-unit>
+      <trans-unit id="aTm-jG-7G1.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "aTm-jG-7G1";</note>
+      </trans-unit>
+      <trans-unit id="aUU-7E-pKC.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "aUU-7E-pKC";</note>
+      </trans-unit>
+      <trans-unit id="abL-uT-3TN.text" xml:space="preserve">
+        <source>Média</source>
+        <target>Média</target>
+        <note>Class = "UILabel"; text = "Média"; ObjectID = "abL-uT-3TN";</note>
+      </trans-unit>
+      <trans-unit id="agb-MP-FkE.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "agb-MP-FkE";</note>
+      </trans-unit>
+      <trans-unit id="aji-KH-ZSK.text" xml:space="preserve">
+        <source>Pagamento</source>
+        <target>Pagamento</target>
+        <note>Class = "UILabel"; text = "Pagamento"; ObjectID = "aji-KH-ZSK";</note>
+      </trans-unit>
+      <trans-unit id="alZ-ef-LpP.text" xml:space="preserve">
+        <source>2 SEMESTRE DE 2020</source>
+        <target>2 SEMESTRE DE 2020</target>
+        <note>Class = "UILabel"; text = "2 SEMESTRE DE 2020"; ObjectID = "alZ-ef-LpP";</note>
+      </trans-unit>
+      <trans-unit id="b64-fb-KZ2.text" xml:space="preserve">
+        <source>Prazo de entrega</source>
+        <target>Prazo de entrega</target>
+        <note>Class = "UILabel"; text = "Prazo de entrega"; ObjectID = "b64-fb-KZ2";</note>
+      </trans-unit>
+      <trans-unit id="bIU-pe-hxA.text" xml:space="preserve">
+        <source>Valor total</source>
+        <target>Valor total</target>
+        <note>Class = "UILabel"; text = "Valor total"; ObjectID = "bIU-pe-hxA";</note>
+      </trans-unit>
+      <trans-unit id="bLI-tE-JNt.placeholder" xml:space="preserve">
+        <source>UF *</source>
+        <target>UF *</target>
+        <note>Class = "UITextField"; placeholder = "UF *"; ObjectID = "bLI-tE-JNt";</note>
+      </trans-unit>
+      <trans-unit id="bN7-dd-mxh.text" xml:space="preserve">
+        <source>C. Horaria</source>
+        <target>C. Horaria</target>
+        <note>Class = "UILabel"; text = "C. Horaria"; ObjectID = "bN7-dd-mxh";</note>
+      </trans-unit>
+      <trans-unit id="bcN-D2-vXL.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "bcN-D2-vXL";</note>
+      </trans-unit>
+      <trans-unit id="bul-UQ-yIc.text" xml:space="preserve">
+        <source>RUA JOÃO GUIMARAES ROSA, 590</source>
+        <target>RUA JOÃO GUIMARAES ROSA, 590</target>
+        <note>Class = "UILabel"; text = "RUA JOÃO GUIMARAES ROSA, 590"; ObjectID = "bul-UQ-yIc";</note>
+      </trans-unit>
+      <trans-unit id="c4y-qg-68I.text" xml:space="preserve">
+        <source>Bandeira</source>
+        <target>Bandeira</target>
+        <note>Class = "UILabel"; text = "Bandeira"; ObjectID = "c4y-qg-68I";</note>
+      </trans-unit>
+      <trans-unit id="c6F-OU-hTF.normalTitle" xml:space="preserve">
+        <source>Cancelar</source>
+        <target>Cancelar</target>
+        <note>Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "c6F-OU-hTF";</note>
+      </trans-unit>
+      <trans-unit id="cCi-4f-xqQ.text" xml:space="preserve">
+        <source>10 de julho de 1979</source>
+        <target>10 de julho de 1979</target>
+        <note>Class = "UILabel"; text = "10 de julho de 1979"; ObjectID = "cCi-4f-xqQ";</note>
+      </trans-unit>
+      <trans-unit id="cIi-F5-be2.text" xml:space="preserve">
+        <source>18 de dezembro de 2020</source>
+        <target>18 de dezembro de 2020</target>
+        <note>Class = "UILabel"; text = "18 de dezembro de 2020"; ObjectID = "cIi-F5-be2";</note>
+      </trans-unit>
+      <trans-unit id="cZD-jT-jth.text" xml:space="preserve">
+        <source>Situação</source>
+        <target>Situação</target>
+        <note>Class = "UILabel"; text = "Situação"; ObjectID = "cZD-jT-jth";</note>
+      </trans-unit>
+      <trans-unit id="ccE-vM-wNj.text" xml:space="preserve">
+        <source>Fisioterapia</source>
+        <target>Fisioterapia</target>
+        <note>Class = "UILabel"; text = "Fisioterapia"; ObjectID = "ccE-vM-wNj";</note>
+      </trans-unit>
+      <trans-unit id="ceV-7e-zp0.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "ceV-7e-zp0";</note>
+      </trans-unit>
+      <trans-unit id="ckc-OZ-jDh.text" xml:space="preserve">
+        <source>NOME:</source>
+        <target>NOME:</target>
+        <note>Class = "UILabel"; text = "NOME:"; ObjectID = "ckc-OZ-jDh";</note>
+      </trans-unit>
+      <trans-unit id="co7-Hb-prn.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "co7-Hb-prn";</note>
+      </trans-unit>
+      <trans-unit id="cw4-UP-yrd.text" xml:space="preserve">
+        <source>Bandeira</source>
+        <target>Bandeira</target>
+        <note>Class = "UILabel"; text = "Bandeira"; ObjectID = "cw4-UP-yrd";</note>
+      </trans-unit>
+      <trans-unit id="dBO-Q9-XJ6.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "dBO-Q9-XJ6";</note>
+      </trans-unit>
+      <trans-unit id="dEb-ZJ-D6J.text" xml:space="preserve">
+        <source>Abaixo constam as cobranças vencidas que estao em aberto. Selecione todas as parcelas a acordar e clique em "Confirmar". Após isto, você poderá escolher, dentre as opçoes liberadas em quantas vezes deseja parcelar as cobranças. Após a escolha clique em "Enviar". O boleto da primeira parcela do acordo deverá ser impresso e terá vencimento para 24 horas, após a geraçao do acordo. Após a baixa bancária efetuada pelo BANCO, sua matrícula será liberada. Atençao: Pague sempre através do boleto, dessa forma, a baixa bancária será automática. Nao pague mensalidades, taxas e/ou acordos através de depósitos ou transferências.</source>
+        <target>Abaixo constam as cobranças vencidas que estao em aberto. Selecione todas as parcelas a acordar e clique em "Confirmar". Após isto, você poderá escolher, dentre as opçoes liberadas em quantas vezes deseja parcelar as cobranças. Após a escolha clique em "Enviar". O boleto da primeira parcela do acordo deverá ser impresso e terá vencimento para 24 horas, após a geraçao do acordo. Após a baixa bancária efetuada pelo BANCO, sua matrícula será liberada. Atençao: Pague sempre através do boleto, dessa forma, a baixa bancária será automática. Nao pague mensalidades, taxas e/ou acordos através de depósitos ou transferências.</target>
+        <note>Class = "UILabel"; text = "Abaixo constam as cobranças vencidas que estao em aberto. Selecione todas as parcelas a acordar e clique em \"Confirmar\". Após isto, você poderá escolher, dentre as opçoes liberadas em quantas vezes deseja parcelar as cobranças. Após a escolha clique em \"Enviar\". O boleto da primeira parcela do acordo deverá ser impresso e terá vencimento para 24 horas, após a geraçao do acordo. Após a baixa bancária efetuada pelo BANCO, sua matrícula será liberada. Atençao: Pague sempre através do boleto, dessa forma, a baixa bancária será automática. Nao pague mensalidades, taxas e/ou acordos através de depósitos ou transferências."; ObjectID = "dEb-ZJ-D6J";</note>
+      </trans-unit>
+      <trans-unit id="dFQ-N0-pZV.placeholder" xml:space="preserve">
+        <source>Periodo</source>
+        <target>Periodo</target>
+        <note>Class = "UITextField"; placeholder = "Periodo"; ObjectID = "dFQ-N0-pZV";</note>
+      </trans-unit>
+      <trans-unit id="dJe-LV-xrZ.text" xml:space="preserve">
+        <source>RETIFICAÇÃO DE MATRICULA</source>
+        <target>RETIFICAÇÃO DE MATRICULA</target>
+        <note>Class = "UILabel"; text = "RETIFICAÇÃO DE MATRICULA"; ObjectID = "dJe-LV-xrZ";</note>
+      </trans-unit>
+      <trans-unit id="dN0-ku-fP8.text" xml:space="preserve">
+        <source>Nenhuma cobrança localizada</source>
+        <target>Nenhuma cobrança localizada</target>
+        <note>Class = "UILabel"; text = "Nenhuma cobrança localizada"; ObjectID = "dN0-ku-fP8";</note>
+      </trans-unit>
+      <trans-unit id="dNf-B7-gdH.text" xml:space="preserve">
+        <source>Valor devido</source>
+        <target>Valor devido</target>
+        <note>Class = "UILabel"; text = "Valor devido"; ObjectID = "dNf-B7-gdH";</note>
+      </trans-unit>
+      <trans-unit id="dO2-rx-sqd.placeholder" xml:space="preserve">
+        <source>Cidade</source>
+        <target>Cidade</target>
+        <note>Class = "UITextField"; placeholder = "Cidade"; ObjectID = "dO2-rx-sqd";</note>
+      </trans-unit>
+      <trans-unit id="dbX-gy-4YK.text" xml:space="preserve">
+        <source>Matricula</source>
+        <target>Matricula</target>
+        <note>Class = "UILabel"; text = "Matricula"; ObjectID = "dbX-gy-4YK";</note>
+      </trans-unit>
+      <trans-unit id="dog-xS-mAE.text" xml:space="preserve">
+        <source>Código de autorização</source>
+        <target>Código de autorização</target>
+        <note>Class = "UILabel"; text = "Código de autorização"; ObjectID = "dog-xS-mAE";</note>
+      </trans-unit>
+      <trans-unit id="dw4-EJ-E14.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "dw4-EJ-E14";</note>
+      </trans-unit>
+      <trans-unit id="eBA-H3-VGy.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "eBA-H3-VGy";</note>
+      </trans-unit>
+      <trans-unit id="eBZ-mw-IM2.text" xml:space="preserve">
+        <source>SEI_EF_0118</source>
+        <target>SEI_EF_0118</target>
+        <note>Class = "UILabel"; text = "SEI_EF_0118"; ObjectID = "eBZ-mw-IM2";</note>
+      </trans-unit>
+      <trans-unit id="eBb-4B-YZc.text" xml:space="preserve">
+        <source>975760</source>
+        <target>975760</target>
+        <note>Class = "UILabel"; text = "975760"; ObjectID = "eBb-4B-YZc";</note>
+      </trans-unit>
+      <trans-unit id="eXZ-MN-cit.text" xml:space="preserve">
+        <source>Itens da cobrança</source>
+        <target>Itens da cobrança</target>
+        <note>Class = "UILabel"; text = "Itens da cobrança"; ObjectID = "eXZ-MN-cit";</note>
+      </trans-unit>
+      <trans-unit id="eai-RR-Yq5.text" xml:space="preserve">
+        <source>Dados do acordo</source>
+        <target>Dados do acordo</target>
+        <note>Class = "UILabel"; text = "Dados do acordo"; ObjectID = "eai-RR-Yq5";</note>
+      </trans-unit>
+      <trans-unit id="ehf-3b-kxk.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "ehf-3b-kxk";</note>
+      </trans-unit>
+      <trans-unit id="eoG-TX-4IH.title" xml:space="preserve">
+        <source>Novo acordo</source>
+        <target>Novo acordo</target>
+        <note>Class = "UINavigationItem"; title = "Novo acordo"; ObjectID = "eoG-TX-4IH";</note>
+      </trans-unit>
+      <trans-unit id="epb-Ez-lcd.text" xml:space="preserve">
+        <source>Tipo</source>
+        <target>Tipo</target>
+        <note>Class = "UILabel"; text = "Tipo"; ObjectID = "epb-Ez-lcd";</note>
+      </trans-unit>
+      <trans-unit id="ets-Fe-Jim.text" xml:space="preserve">
+        <source>RG</source>
+        <target>RG</target>
+        <note>Class = "UILabel"; text = "RG"; ObjectID = "ets-Fe-Jim";</note>
+      </trans-unit>
+      <trans-unit id="eu2-yS-34a.text" xml:space="preserve">
+        <source>Dados do acordo</source>
+        <target>Dados do acordo</target>
+        <note>Class = "UILabel"; text = "Dados do acordo"; ObjectID = "eu2-yS-34a";</note>
+      </trans-unit>
+      <trans-unit id="f9s-ug-hiG.text" xml:space="preserve">
+        <source>21/09/2020</source>
+        <target>21/09/2020</target>
+        <note>Class = "UILabel"; text = "21/09/2020"; ObjectID = "f9s-ug-hiG";</note>
+      </trans-unit>
+      <trans-unit id="fFT-1r-fl8.text" xml:space="preserve">
+        <source>ACORDO ON-LINE</source>
+        <target>ACORDO ON-LINE</target>
+        <note>Class = "UILabel"; text = "ACORDO ON-LINE"; ObjectID = "fFT-1r-fl8";</note>
+      </trans-unit>
+      <trans-unit id="fLQ-G9-BsT.text" xml:space="preserve">
+        <source>5 dias</source>
+        <target>5 dias</target>
+        <note>Class = "UILabel"; text = "5 dias"; ObjectID = "fLQ-G9-BsT";</note>
+      </trans-unit>
+      <trans-unit id="fO5-kj-ycg.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "fO5-kj-ycg";</note>
+      </trans-unit>
+      <trans-unit id="fQH-tn-vWO.text" xml:space="preserve">
+        <source>NÃO ENTREGUE</source>
+        <target>NÃO ENTREGUE</target>
+        <note>Class = "UILabel"; text = "NÃO ENTREGUE"; ObjectID = "fQH-tn-vWO";</note>
+      </trans-unit>
+      <trans-unit id="fVL-09-MAg.text" xml:space="preserve">
+        <source>Valor pago</source>
+        <target>Valor pago</target>
+        <note>Class = "UILabel"; text = "Valor pago"; ObjectID = "fVL-09-MAg";</note>
+      </trans-unit>
+      <trans-unit id="fdb-81-ewh.normalTitle" xml:space="preserve">
+        <source>Avançar</source>
+        <target>Avançar</target>
+        <note>Class = "UIButton"; normalTitle = "Avançar"; ObjectID = "fdb-81-ewh";</note>
+      </trans-unit>
+      <trans-unit id="fsb-YG-gHi.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "fsb-YG-gHi";</note>
+      </trans-unit>
+      <trans-unit id="g5k-tE-sib.text" xml:space="preserve">
+        <source>COMPENSAÇÃO DE FALTAS</source>
+        <target>COMPENSAÇÃO DE FALTAS</target>
+        <note>Class = "UILabel"; text = "COMPENSAÇÃO DE FALTAS"; ObjectID = "g5k-tE-sib";</note>
+      </trans-unit>
+      <trans-unit id="gGf-7d-Tud.text" xml:space="preserve">
+        <source>Dados do pedido</source>
+        <target>Dados do pedido</target>
+        <note>Class = "UILabel"; text = "Dados do pedido"; ObjectID = "gGf-7d-Tud";</note>
+      </trans-unit>
+      <trans-unit id="gLh-0X-ch9.text" xml:space="preserve">
+        <source>Disciplina</source>
+        <target>Disciplina</target>
+        <note>Class = "UILabel"; text = "Disciplina"; ObjectID = "gLh-0X-ch9";</note>
+      </trans-unit>
+      <trans-unit id="gXc-nO-n6V.text" xml:space="preserve">
+        <source>Itens da cobrança</source>
+        <target>Itens da cobrança</target>
+        <note>Class = "UILabel"; text = "Itens da cobrança"; ObjectID = "gXc-nO-n6V";</note>
+      </trans-unit>
+      <trans-unit id="gYE-wk-Ei7.text" xml:space="preserve">
+        <source>Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito</source>
+        <target>Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito</target>
+        <note>Class = "UILabel"; text = "Não foi possivel aprovas o seu pagamento entre em contato com sua administradora de cartão de credito"; ObjectID = "gYE-wk-Ei7";</note>
+      </trans-unit>
+      <trans-unit id="geo-OF-vYf.text" xml:space="preserve">
+        <source>Confirme a nova senha</source>
+        <target>Confirme a nova senha</target>
+        <note>Class = "UILabel"; text = "Confirme a nova senha"; ObjectID = "geo-OF-vYf";</note>
+      </trans-unit>
+      <trans-unit id="geo-YM-XY5.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "geo-YM-XY5";</note>
+      </trans-unit>
+      <trans-unit id="giA-QA-zkt.text" xml:space="preserve">
+        <source>31/08/2020</source>
+        <target>31/08/2020</target>
+        <note>Class = "UILabel"; text = "31/08/2020"; ObjectID = "giA-QA-zkt";</note>
+      </trans-unit>
+      <trans-unit id="gir-16-tce.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "gir-16-tce";</note>
+      </trans-unit>
+      <trans-unit id="gnY-EM-yIE.title" xml:space="preserve">
+        <source>Contratos</source>
+        <target>Contratos</target>
+        <note>Class = "UINavigationItem"; title = "Contratos"; ObjectID = "gnY-EM-yIE";</note>
+      </trans-unit>
+      <trans-unit id="goM-tr-FEB.text" xml:space="preserve">
+        <source>Comprovante de venda</source>
+        <target>Comprovante de venda</target>
+        <note>Class = "UILabel"; text = "Comprovante de venda"; ObjectID = "goM-tr-FEB";</note>
+      </trans-unit>
+      <trans-unit id="gpy-3F-3di.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "gpy-3F-3di";</note>
+      </trans-unit>
+      <trans-unit id="h1Q-TF-BSH.text" xml:space="preserve">
+        <source>Desconto (-)</source>
+        <target>Desconto (-)</target>
+        <note>Class = "UILabel"; text = "Desconto (-)"; ObjectID = "h1Q-TF-BSH";</note>
+      </trans-unit>
+      <trans-unit id="h08-a0-uYx.text" xml:space="preserve">
+        <source>Final do cartão</source>
+        <target>Final do cartão</target>
+        <note>Class = "UILabel"; text = "Final do cartão"; ObjectID = "h08-a0-uYx";</note>
+      </trans-unit>
+      <trans-unit id="hEW-LW-AZ5.text" xml:space="preserve">
+        <source>APROVADO</source>
+        <target>APROVADO</target>
+        <note>Class = "UILabel"; text = "APROVADO"; ObjectID = "hEW-LW-AZ5";</note>
+      </trans-unit>
+      <trans-unit id="hFr-J9-3Mk.text" xml:space="preserve">
+        <source>Alterar senha</source>
+        <target>Alterar senha</target>
+        <note>Class = "UILabel"; text = "Alterar senha"; ObjectID = "hFr-J9-3Mk";</note>
+      </trans-unit>
+      <trans-unit id="hIa-iJ-1j5.placeholder" xml:space="preserve">
+        <source>Ano</source>
+        <target>Ano</target>
+        <note>Class = "UITextField"; placeholder = "Ano"; ObjectID = "hIa-iJ-1j5";</note>
+      </trans-unit>
+      <trans-unit id="hQ6-gx-vQe.text" xml:space="preserve">
+        <source>Curso</source>
+        <target>Curso</target>
+        <note>Class = "UILabel"; text = "Curso"; ObjectID = "hQ6-gx-vQe";</note>
+      </trans-unit>
+      <trans-unit id="hVH-t1-vT4.text" xml:space="preserve">
+        <source>(11)94899-1293</source>
+        <target>(11)94899-1293</target>
+        <note>Class = "UILabel"; text = "(11)94899-1293"; ObjectID = "hVH-t1-vT4";</note>
+      </trans-unit>
+      <trans-unit id="hYa-5H-JgF.text" xml:space="preserve">
+        <source>Polo</source>
+        <target>Polo</target>
+        <note>Class = "UILabel"; text = "Polo"; ObjectID = "hYa-5H-JgF";</note>
+      </trans-unit>
+      <trans-unit id="hcc-J9-zc3.text" xml:space="preserve">
+        <source>15 DIAS</source>
+        <target>15 DIAS</target>
+        <note>Class = "UILabel"; text = "15 DIAS"; ObjectID = "hcc-J9-zc3";</note>
+      </trans-unit>
+      <trans-unit id="hdc-So-ueE.normalTitle" xml:space="preserve">
+        <source>Finalizar solicitação</source>
+        <target>Finalizar solicitação</target>
+        <note>Class = "UIButton"; normalTitle = "Finalizar solicitação"; ObjectID = "hdc-So-ueE";</note>
+      </trans-unit>
+      <trans-unit id="hfV-0w-x5c.text" xml:space="preserve">
+        <source>Valor líquido</source>
+        <target>Valor líquido</target>
+        <note>Class = "UILabel"; text = "Valor líquido"; ObjectID = "hfV-0w-x5c";</note>
+      </trans-unit>
+      <trans-unit id="hja-6z-cPn.text" xml:space="preserve">
+        <source>R$ 5,00</source>
+        <target>R$ 5,00</target>
+        <note>Class = "UILabel"; text = "R$ 5,00"; ObjectID = "hja-6z-cPn";</note>
+      </trans-unit>
+      <trans-unit id="hkp-lV-9cT.text" xml:space="preserve">
+        <source>SOLICITAÇÃO DE SERVIÇO DO ALUNO</source>
+        <target>SOLICITAÇÃO DE SERVIÇO DO ALUNO</target>
+        <note>Class = "UILabel"; text = "SOLICITAÇÃO DE SERVIÇO DO ALUNO"; ObjectID = "hkp-lV-9cT";</note>
+      </trans-unit>
+      <trans-unit id="hzw-3z-Ahu.text" xml:space="preserve">
+        <source>3590</source>
+        <target>3590</target>
+        <note>Class = "UILabel"; text = "3590"; ObjectID = "hzw-3z-Ahu";</note>
+      </trans-unit>
+      <trans-unit id="i5k-we-DtX.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "i5k-we-DtX";</note>
+      </trans-unit>
+      <trans-unit id="i6f-GL-sdX.text" xml:space="preserve">
+        <source>24/09/2020</source>
+        <target>24/09/2020</target>
+        <note>Class = "UILabel"; text = "24/09/2020"; ObjectID = "i6f-GL-sdX";</note>
+      </trans-unit>
+      <trans-unit id="i8x-YI-kDO.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "i8x-YI-kDO";</note>
+      </trans-unit>
+      <trans-unit id="iBt-7D-j2c.text" xml:space="preserve">
+        <source>Telefone</source>
+        <target>Telefone</target>
+        <note>Class = "UILabel"; text = "Telefone"; ObjectID = "iBt-7D-j2c";</note>
+      </trans-unit>
+      <trans-unit id="iPa-Bb-2B6.text" xml:space="preserve">
+        <source>Nenhum serviço adicionado</source>
+        <target>Nenhum serviço adicionado</target>
+        <note>Class = "UILabel"; text = "Nenhum serviço adicionado"; ObjectID = "iPa-Bb-2B6";</note>
+      </trans-unit>
+      <trans-unit id="iWl-Nc-ctk.placeholder" xml:space="preserve">
+        <source>AP</source>
+        <target>AP</target>
+        <note>Class = "UITextField"; placeholder = "AP"; ObjectID = "iWl-Nc-ctk";</note>
+      </trans-unit>
+      <trans-unit id="iex-JF-13f.text" xml:space="preserve">
+        <source>Cobranças</source>
+        <target>Cobranças</target>
+        <note>Class = "UILabel"; text = "Cobranças"; ObjectID = "iex-JF-13f";</note>
+      </trans-unit>
+      <trans-unit id="ilh-18-ZIX.text" xml:space="preserve">
+        <source>15 DIAS</source>
+        <target>15 DIAS</target>
+        <note>Class = "UILabel"; text = "15 DIAS"; ObjectID = "ilh-18-ZIX";</note>
+      </trans-unit>
+      <trans-unit id="iot-CE-msL.text" xml:space="preserve">
+        <source>Aprovado</source>
+        <target>Aprovado</target>
+        <note>Class = "UILabel"; text = "Aprovado"; ObjectID = "iot-CE-msL";</note>
+      </trans-unit>
+      <trans-unit id="ipK-be-geK.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "ipK-be-geK";</note>
+      </trans-unit>
+      <trans-unit id="is1-6N-O1l.text" xml:space="preserve">
+        <source>Senha</source>
+        <target>Senha</target>
+        <note>Class = "UILabel"; text = "Senha"; ObjectID = "is1-6N-O1l";</note>
+      </trans-unit>
+      <trans-unit id="is2-2l-Yru.text" xml:space="preserve">
+        <source>SETEMBRO/2020</source>
+        <target>SETEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "SETEMBRO/2020"; ObjectID = "is2-2l-Yru";</note>
+      </trans-unit>
+      <trans-unit id="iyH-DM-DB2.text" xml:space="preserve">
+        <source>Nenhuma cobrança localizada</source>
+        <target>Nenhuma cobrança localizada</target>
+        <note>Class = "UILabel"; text = "Nenhuma cobrança localizada"; ObjectID = "iyH-DM-DB2";</note>
+      </trans-unit>
+      <trans-unit id="izV-rS-GUb.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "izV-rS-GUb";</note>
+      </trans-unit>
+      <trans-unit id="j9G-My-OwZ.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "j9G-My-OwZ";</note>
+      </trans-unit>
+      <trans-unit id="j75-R8-1Kg.text" xml:space="preserve">
+        <source>Situação</source>
+        <target>Situação</target>
+        <note>Class = "UILabel"; text = "Situação"; ObjectID = "j75-R8-1Kg";</note>
+      </trans-unit>
+      <trans-unit id="jBy-e4-vjz.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "jBy-e4-vjz";</note>
+      </trans-unit>
+      <trans-unit id="jJh-X1-kYs.text" xml:space="preserve">
+        <source>IDENTIDADE:</source>
+        <target>IDENTIDADE:</target>
+        <note>Class = "UILabel"; text = "IDENTIDADE:"; ObjectID = "jJh-X1-kYs";</note>
+      </trans-unit>
+      <trans-unit id="jKA-3l-gdB.text" xml:space="preserve">
+        <source>Comentário atendente</source>
+        <target>Comentário atendente</target>
+        <note>Class = "UILabel"; text = "Comentário atendente"; ObjectID = "jKA-3l-gdB";</note>
+      </trans-unit>
+      <trans-unit id="jPV-Rc-nmP.text" xml:space="preserve">
+        <source>juliosfigueiredo@gmail.com</source>
+        <target>juliosfigueiredo@gmail.com</target>
+        <note>Class = "UILabel"; text = "juliosfigueiredo@gmail.com"; ObjectID = "jPV-Rc-nmP";</note>
+      </trans-unit>
+      <trans-unit id="jVu-qp-U6U.text" xml:space="preserve">
+        <source>345678</source>
+        <target>345678</target>
+        <note>Class = "UILabel"; text = "345678"; ObjectID = "jVu-qp-U6U";</note>
+      </trans-unit>
+      <trans-unit id="jaz-4s-qBZ.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "jaz-4s-qBZ";</note>
+      </trans-unit>
+      <trans-unit id="jrJ-Sf-WGO.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "jrJ-Sf-WGO";</note>
+      </trans-unit>
+      <trans-unit id="jvu-po-3rv.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "jvu-po-3rv";</note>
+      </trans-unit>
+      <trans-unit id="k3y-Ku-ch9.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "k3y-Ku-ch9";</note>
+      </trans-unit>
+      <trans-unit id="kFQ-pn-ySI.text" xml:space="preserve">
+        <source>Status de processamento</source>
+        <target>Status de processamento</target>
+        <note>Class = "UILabel"; text = "Status de processamento"; ObjectID = "kFQ-pn-ySI";</note>
+      </trans-unit>
+      <trans-unit id="kZt-hW-XIM.text" xml:space="preserve">
+        <source>Parcela</source>
+        <target>Parcela</target>
+        <note>Class = "UILabel"; text = "Parcela"; ObjectID = "kZt-hW-XIM";</note>
+      </trans-unit>
+      <trans-unit id="kc0-M7-qdg.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "kc0-M7-qdg";</note>
+      </trans-unit>
+      <trans-unit id="kks-Ij-Ui6.text" xml:space="preserve">
+        <source>Senha atual</source>
+        <target>Senha atual</target>
+        <note>Class = "UILabel"; text = "Senha atual"; ObjectID = "kks-Ij-Ui6";</note>
+      </trans-unit>
+      <trans-unit id="kv7-bU-oK5.text" xml:space="preserve">
+        <source>Total encargos (+)</source>
+        <target>Total encargos (+)</target>
+        <note>Class = "UILabel"; text = "Total encargos (+)"; ObjectID = "kv7-bU-oK5";</note>
+      </trans-unit>
+      <trans-unit id="l8C-bi-XBC.title" xml:space="preserve">
+        <source>Boletos</source>
+        <target>Boletos</target>
+        <note>Class = "UINavigationItem"; title = "Boletos"; ObjectID = "l8C-bi-XBC";</note>
+      </trans-unit>
+      <trans-unit id="lM0-E4-CLM.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "lM0-E4-CLM";</note>
+      </trans-unit>
+      <trans-unit id="lRw-mF-hjM.text" xml:space="preserve">
+        <source>São Paulo</source>
+        <target>São Paulo</target>
+        <note>Class = "UILabel"; text = "São Paulo"; ObjectID = "lRw-mF-hjM";</note>
+      </trans-unit>
+      <trans-unit id="lWI-mZ-5GP.text" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UILabel"; text = "Serviço"; ObjectID = "lWI-mZ-5GP";</note>
+      </trans-unit>
+      <trans-unit id="lZB-cF-UOt.placeholder" xml:space="preserve">
+        <source>CPF</source>
+        <target>CPF</target>
+        <note>Class = "UITextField"; placeholder = "CPF"; ObjectID = "lZB-cF-UOt";</note>
+      </trans-unit>
+      <trans-unit id="lcr-Ym-NBe.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "lcr-Ym-NBe";</note>
+      </trans-unit>
+      <trans-unit id="lhs-o7-4p7.text" xml:space="preserve">
+        <source>CAMPUS / POLO</source>
+        <target>CAMPUS / POLO</target>
+        <note>Class = "UILabel"; text = "CAMPUS / POLO"; ObjectID = "lhs-o7-4p7";</note>
+      </trans-unit>
+      <trans-unit id="lly-98-ZFC.title" xml:space="preserve">
+        <source>Selecione a parcela</source>
+        <target>Selecione a parcela</target>
+        <note>Class = "UINavigationItem"; title = "Selecione a parcela"; ObjectID = "lly-98-ZFC";</note>
+      </trans-unit>
+      <trans-unit id="lnC-XG-SX2.title" xml:space="preserve">
+        <source>Serviços</source>
+        <target>Serviços</target>
+        <note>Class = "UINavigationItem"; title = "Serviços"; ObjectID = "lnC-XG-SX2";</note>
+      </trans-unit>
+      <trans-unit id="lsL-7V-9xt.text" xml:space="preserve">
+        <source>Número</source>
+        <target>Número</target>
+        <note>Class = "UILabel"; text = "Número"; ObjectID = "lsL-7V-9xt";</note>
+      </trans-unit>
+      <trans-unit id="lxo-xc-nCH.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "lxo-xc-nCH";</note>
+      </trans-unit>
+      <trans-unit id="m4D-gN-fj9.text" xml:space="preserve">
+        <source>BL17 AP44</source>
+        <target>BL17 AP44</target>
+        <note>Class = "UILabel"; text = "BL17 AP44"; ObjectID = "m4D-gN-fj9";</note>
+      </trans-unit>
+      <trans-unit id="mEA-Ju-72L.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "mEA-Ju-72L";</note>
+      </trans-unit>
+      <trans-unit id="mJe-83-Fo1.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "mJe-83-Fo1";</note>
+      </trans-unit>
+      <trans-unit id="mKm-Yb-lSx.text" xml:space="preserve">
+        <source>Valor acordo</source>
+        <target>Valor acordo</target>
+        <note>Class = "UILabel"; text = "Valor acordo"; ObjectID = "mKm-Yb-lSx";</note>
+      </trans-unit>
+      <trans-unit id="max-fQ-L54.text" xml:space="preserve">
+        <source>R$ 0,00</source>
+        <target>R$ 0,00</target>
+        <note>Class = "UILabel"; text = "R$ 0,00"; ObjectID = "max-fQ-L54";</note>
+      </trans-unit>
+      <trans-unit id="md7-Hp-uKi.text" xml:space="preserve">
+        <source>27614397</source>
+        <target>27614397</target>
+        <note>Class = "UILabel"; text = "27614397"; ObjectID = "md7-Hp-uKi";</note>
+      </trans-unit>
+      <trans-unit id="mjk-5i-dre.text" xml:space="preserve">
+        <source>Documento</source>
+        <target>Documento</target>
+        <note>Class = "UILabel"; text = "Documento"; ObjectID = "mjk-5i-dre";</note>
+      </trans-unit>
+      <trans-unit id="mkt-9q-2sd.text" xml:space="preserve">
+        <source>TECNOLOGIA DA INFORMAÇÃO</source>
+        <target>TECNOLOGIA DA INFORMAÇÃO</target>
+        <note>Class = "UILabel"; text = "TECNOLOGIA DA INFORMAÇÃO"; ObjectID = "mkt-9q-2sd";</note>
+      </trans-unit>
+      <trans-unit id="mlX-dc-wcl.title" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UINavigationItem"; title = "Serviço"; ObjectID = "mlX-dc-wcl";</note>
+      </trans-unit>
+      <trans-unit id="mvc-gU-ebe.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "mvc-gU-ebe";</note>
+      </trans-unit>
+      <trans-unit id="mwC-vG-Gwa.segmentTitles[0]" xml:space="preserve">
+        <source>Busca por data</source>
+        <target>Busca por data</target>
+        <note>Class = "UISegmentedControl"; mwC-vG-Gwa.segmentTitles[0] = "Busca por data"; ObjectID = "mwC-vG-Gwa";</note>
+      </trans-unit>
+      <trans-unit id="mwC-vG-Gwa.segmentTitles[1]" xml:space="preserve">
+        <source>Busca por período</source>
+        <target>Busca por período</target>
+        <note>Class = "UISegmentedControl"; mwC-vG-Gwa.segmentTitles[1] = "Busca por período"; ObjectID = "mwC-vG-Gwa";</note>
+      </trans-unit>
+      <trans-unit id="myv-Un-wkL.text" xml:space="preserve">
+        <source>Dados do Pagamento com Cartão</source>
+        <target>Dados do Pagamento com Cartão</target>
+        <note>Class = "UILabel"; text = "Dados do Pagamento com Cartão"; ObjectID = "myv-Un-wkL";</note>
+      </trans-unit>
+      <trans-unit id="n1N-Lh-5nr.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "n1N-Lh-5nr";</note>
+      </trans-unit>
+      <trans-unit id="n6C-uK-bdT.text" xml:space="preserve">
+        <source>026559</source>
+        <target>026559</target>
+        <note>Class = "UILabel"; text = "026559"; ObjectID = "n6C-uK-bdT";</note>
+      </trans-unit>
+      <trans-unit id="n7M-Nh-N91.text" xml:space="preserve">
+        <source>234567</source>
+        <target>234567</target>
+        <note>Class = "UILabel"; text = "234567"; ObjectID = "n7M-Nh-N91";</note>
+      </trans-unit>
+      <trans-unit id="nE0-DE-EgV.normalTitle" xml:space="preserve">
+        <source>Pagar</source>
+        <target>Pagar</target>
+        <note>Class = "UIButton"; normalTitle = "Pagar"; ObjectID = "nE0-DE-EgV";</note>
+      </trans-unit>
+      <trans-unit id="nEm-3O-e0P.text" xml:space="preserve">
+        <source>Quantidade</source>
+        <target>Quantidade</target>
+        <note>Class = "UILabel"; text = "Quantidade"; ObjectID = "nEm-3O-e0P";</note>
+      </trans-unit>
+      <trans-unit id="nHj-C5-Twn.text" xml:space="preserve">
+        <source>Nenhuma cobrança localizada</source>
+        <target>Nenhuma cobrança localizada</target>
+        <note>Class = "UILabel"; text = "Nenhuma cobrança localizada"; ObjectID = "nHj-C5-Twn";</note>
+      </trans-unit>
+      <trans-unit id="nT1-Pq-NSZ.normalTitle" xml:space="preserve">
+        <source>Ver cobranças</source>
+        <target>Ver cobranças</target>
+        <note>Class = "UIButton"; normalTitle = "Ver cobranças"; ObjectID = "nT1-Pq-NSZ";</note>
+      </trans-unit>
+      <trans-unit id="nY8-a9-Q3Q.title" xml:space="preserve">
+        <source>Documentos</source>
+        <target>Documentos</target>
+        <note>Class = "UINavigationItem"; title = "Documentos"; ObjectID = "nY8-a9-Q3Q";</note>
+      </trans-unit>
+      <trans-unit id="np4-1J-NiI.normalTitle" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UIButton"; normalTitle = "Descrição"; ObjectID = "np4-1J-NiI";</note>
+      </trans-unit>
+      <trans-unit id="nzd-th-KO4.title" xml:space="preserve">
+        <source>Avisos</source>
+        <target>Avisos</target>
+        <note>Class = "UINavigationItem"; title = "Avisos"; ObjectID = "nzd-th-KO4";</note>
+      </trans-unit>
+      <trans-unit id="oN4-ek-Pme.text" xml:space="preserve">
+        <source>Encargo</source>
+        <target>Encargo</target>
+        <note>Class = "UILabel"; text = "Encargo"; ObjectID = "oN4-ek-Pme";</note>
+      </trans-unit>
+      <trans-unit id="oYO-1k-IOY.text" xml:space="preserve">
+        <source>10/10/2020</source>
+        <target>10/10/2020</target>
+        <note>Class = "UILabel"; text = "10/10/2020"; ObjectID = "oYO-1k-IOY";</note>
+      </trans-unit>
+      <trans-unit id="obH-tB-Zag.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "obH-tB-Zag";</note>
+      </trans-unit>
+      <trans-unit id="obh-2C-9rS.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "obh-2C-9rS";</note>
+      </trans-unit>
+      <trans-unit id="oeD-aq-Mrf.text" xml:space="preserve">
+        <source>MASTERCARD</source>
+        <target>MASTERCARD</target>
+        <note>Class = "UILabel"; text = "MASTERCARD"; ObjectID = "oeD-aq-Mrf";</note>
+      </trans-unit>
+      <trans-unit id="owN-t9-dB1.text" xml:space="preserve">
+        <source>Vencimento</source>
+        <target>Vencimento</target>
+        <note>Class = "UILabel"; text = "Vencimento"; ObjectID = "owN-t9-dB1";</note>
+      </trans-unit>
+      <trans-unit id="oxY-iJ-JS7.text" xml:space="preserve">
+        <source>Parcelas</source>
+        <target>Parcelas</target>
+        <note>Class = "UILabel"; text = "Parcelas"; ObjectID = "oxY-iJ-JS7";</note>
+      </trans-unit>
+      <trans-unit id="oy7-wX-DmF.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "oy7-wX-DmF";</note>
+      </trans-unit>
+      <trans-unit id="pC2-DH-3le.text" xml:space="preserve">
+        <source>Mês/Ano</source>
+        <target>Mês/Ano</target>
+        <note>Class = "UILabel"; text = "Mês/Ano"; ObjectID = "pC2-DH-3le";</note>
+      </trans-unit>
+      <trans-unit id="pEV-T4-XPf.title" xml:space="preserve">
+        <source>Cobranças</source>
+        <target>Cobranças</target>
+        <note>Class = "UINavigationItem"; title = "Cobranças"; ObjectID = "pEV-T4-XPf";</note>
+      </trans-unit>
+      <trans-unit id="pEj-1p-2fB.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "pEj-1p-2fB";</note>
+      </trans-unit>
+      <trans-unit id="pFu-t7-NOn.text" xml:space="preserve">
+        <source>Boletim</source>
+        <target>Boletim</target>
+        <note>Class = "UILabel"; text = "Boletim"; ObjectID = "pFu-t7-NOn";</note>
+      </trans-unit>
+      <trans-unit id="pIg-nM-AZI.text" xml:space="preserve">
+        <source>27614397</source>
+        <target>27614397</target>
+        <note>Class = "UILabel"; text = "27614397"; ObjectID = "pIg-nM-AZI";</note>
+      </trans-unit>
+      <trans-unit id="pXo-rz-PnA.text" xml:space="preserve">
+        <source>Contrato</source>
+        <target>Contrato</target>
+        <note>Class = "UILabel"; text = "Contrato"; ObjectID = "pXo-rz-PnA";</note>
+      </trans-unit>
+      <trans-unit id="pZR-1T-uzM.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "pZR-1T-uzM";</note>
+      </trans-unit>
+      <trans-unit id="pgk-l2-EfB.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "pgk-l2-EfB";</note>
+      </trans-unit>
+      <trans-unit id="pth-eW-zCs.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "pth-eW-zCs";</note>
+      </trans-unit>
+      <trans-unit id="pul-IO-RKa.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "pul-IO-RKa";</note>
+      </trans-unit>
+      <trans-unit id="pwk-qp-gT0.text" xml:space="preserve">
+        <source>CARTÃO</source>
+        <target>CARTÃO</target>
+        <note>Class = "UILabel"; text = "CARTÃO"; ObjectID = "pwk-qp-gT0";</note>
+      </trans-unit>
+      <trans-unit id="pyv-Hx-6A0.title" xml:space="preserve">
+        <source>Campi</source>
+        <target>Campi</target>
+        <note>Class = "UINavigationItem"; title = "Campi"; ObjectID = "pyv-Hx-6A0";</note>
+      </trans-unit>
+      <trans-unit id="qAj-xk-3dK.text" xml:space="preserve">
+        <source>Cobrança</source>
+        <target>Cobrança</target>
+        <note>Class = "UILabel"; text = "Cobrança"; ObjectID = "qAj-xk-3dK";</note>
+      </trans-unit>
+      <trans-unit id="qGk-HN-SgY.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "qGk-HN-SgY";</note>
+      </trans-unit>
+      <trans-unit id="qNc-Bk-ZDT.text" xml:space="preserve">
+        <source>2020/2</source>
+        <target>2020/2</target>
+        <note>Class = "UILabel"; text = "2020/2"; ObjectID = "qNc-Bk-ZDT";</note>
+      </trans-unit>
+      <trans-unit id="qVN-OT-mYi.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "qVN-OT-mYi";</note>
+      </trans-unit>
+      <trans-unit id="qWe-17-SbY.normalTitle" xml:space="preserve">
+        <source>Entrar</source>
+        <target>Entrar</target>
+        <note>Class = "UIButton"; normalTitle = "Entrar"; ObjectID = "qWe-17-SbY";</note>
+      </trans-unit>
+      <trans-unit id="qg5-2v-cT3.text" xml:space="preserve">
+        <source>Comentário</source>
+        <target>Comentário</target>
+        <note>Class = "UILabel"; text = "Comentário"; ObjectID = "qg5-2v-cT3";</note>
+      </trans-unit>
+      <trans-unit id="ql6-Xw-r7H.text" xml:space="preserve">
+        <source>Encargo</source>
+        <target>Encargo</target>
+        <note>Class = "UILabel"; text = "Encargo"; ObjectID = "ql6-Xw-r7H";</note>
+      </trans-unit>
+      <trans-unit id="qpv-EM-eol.text" xml:space="preserve">
+        <source>Você não solicitou serviços</source>
+        <target>Você não solicitou serviços</target>
+        <note>Class = "UILabel"; text = "Você não solicitou serviços"; ObjectID = "qpv-EM-eol";</note>
+      </trans-unit>
+      <trans-unit id="qqe-we-Bgw.text" xml:space="preserve">
+        <source>Prazo de entrega</source>
+        <target>Prazo de entrega</target>
+        <note>Class = "UILabel"; text = "Prazo de entrega"; ObjectID = "qqe-we-Bgw";</note>
+      </trans-unit>
+      <trans-unit id="qxH-tx-3Op.text" xml:space="preserve">
+        <source>Aguarde as datas definidas para retirada de cada serviço</source>
+        <target>Aguarde as datas definidas para retirada de cada serviço</target>
+        <note>Class = "UILabel"; text = "Aguarde as datas definidas para retirada de cada serviço"; ObjectID = "qxH-tx-3Op";</note>
+      </trans-unit>
+      <trans-unit id="qzv-dy-D8c.text" xml:space="preserve">
+        <source>SETEMBRO/2020</source>
+        <target>SETEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "SETEMBRO/2020"; ObjectID = "qzv-dy-D8c";</note>
+      </trans-unit>
+      <trans-unit id="r6M-s0-Jfx.text" xml:space="preserve">
+        <source>Prazo de entrega</source>
+        <target>Prazo de entrega</target>
+        <note>Class = "UILabel"; text = "Prazo de entrega"; ObjectID = "r6M-s0-Jfx";</note>
+      </trans-unit>
+      <trans-unit id="r6n-W4-tpy.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "r6n-W4-tpy";</note>
+      </trans-unit>
+      <trans-unit id="r8z-9G-hnt.text" xml:space="preserve">
+        <source>MENSALIDADE</source>
+        <target>MENSALIDADE</target>
+        <note>Class = "UILabel"; text = "MENSALIDADE"; ObjectID = "r8z-9G-hnt";</note>
+      </trans-unit>
+      <trans-unit id="rCg-d6-59n.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "rCg-d6-59n";</note>
+      </trans-unit>
+      <trans-unit id="rM6-ux-JHf.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "rM6-ux-JHf";</note>
+      </trans-unit>
+      <trans-unit id="rNV-TW-KIm.text" xml:space="preserve">
+        <source>20/08/2020</source>
+        <target>20/08/2020</target>
+        <note>Class = "UILabel"; text = "20/08/2020"; ObjectID = "rNV-TW-KIm";</note>
+      </trans-unit>
+      <trans-unit id="rTd-u2-CHz.title" xml:space="preserve">
+        <source>Secretaria</source>
+        <target>Secretaria</target>
+        <note>Class = "UINavigationItem"; title = "Secretaria"; ObjectID = "rTd-u2-CHz";</note>
+      </trans-unit>
+      <trans-unit id="rYy-QW-bKS.text" xml:space="preserve">
+        <source>06/10/2020</source>
+        <target>06/10/2020</target>
+        <note>Class = "UILabel"; text = "06/10/2020"; ObjectID = "rYy-QW-bKS";</note>
+      </trans-unit>
+      <trans-unit id="ral-Hn-TMp.text" xml:space="preserve">
+        <source>Valor total dos serviços</source>
+        <target>Valor total dos serviços</target>
+        <note>Class = "UILabel"; text = "Valor total dos serviços"; ObjectID = "ral-Hn-TMp";</note>
+      </trans-unit>
+      <trans-unit id="rbX-OE-uI3.text" xml:space="preserve">
+        <source>Dados do acordo indiponíveis</source>
+        <target>Dados do acordo indiponíveis</target>
+        <note>Class = "UILabel"; text = "Dados do acordo indiponíveis"; ObjectID = "rbX-OE-uI3";</note>
+      </trans-unit>
+      <trans-unit id="rtJ-Y1-yN5.title" xml:space="preserve">
+        <source>Resultado</source>
+        <target>Resultado</target>
+        <note>Class = "UINavigationItem"; title = "Resultado"; ObjectID = "rtJ-Y1-yN5";</note>
+      </trans-unit>
+      <trans-unit id="s3C-UE-X4E.normalTitle" xml:space="preserve">
+        <source>Cancelar</source>
+        <target>Cancelar</target>
+        <note>Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "s3C-UE-X4E";</note>
+      </trans-unit>
+      <trans-unit id="s9d-3j-47R.placeholder" xml:space="preserve">
+        <source>Forma de pagamento</source>
+        <target>Forma de pagamento</target>
+        <note>Class = "UITextField"; placeholder = "Forma de pagamento"; ObjectID = "s9d-3j-47R";</note>
+      </trans-unit>
+      <trans-unit id="sAx-vW-c8a.placeholder" xml:space="preserve">
+        <source>Data final</source>
+        <target>Data final</target>
+        <note>Class = "UITextField"; placeholder = "Data final"; ObjectID = "sAx-vW-c8a";</note>
+      </trans-unit>
+      <trans-unit id="sHv-kI-fG0.text" xml:space="preserve">
+        <source>Encargos</source>
+        <target>Encargos</target>
+        <note>Class = "UILabel"; text = "Encargos"; ObjectID = "sHv-kI-fG0";</note>
+      </trans-unit>
+      <trans-unit id="sKy-eM-6ia.normalTitle" xml:space="preserve">
+        <source>Sair</source>
+        <target>Sair</target>
+        <note>Class = "UIButton"; normalTitle = "Sair"; ObjectID = "sKy-eM-6ia";</note>
+      </trans-unit>
+      <trans-unit id="sMs-zu-iuy.text" xml:space="preserve">
+        <source>Valor pago</source>
+        <target>Valor pago</target>
+        <note>Class = "UILabel"; text = "Valor pago"; ObjectID = "sMs-zu-iuy";</note>
+      </trans-unit>
+      <trans-unit id="sPu-x2-ifE.text" xml:space="preserve">
+        <source>Honorários</source>
+        <target>Honorários</target>
+        <note>Class = "UILabel"; text = "Honorários"; ObjectID = "sPu-x2-ifE";</note>
+      </trans-unit>
+      <trans-unit id="sZp-iU-6V5.text" xml:space="preserve">
+        <source>Não existem dados para os parâmetros informados</source>
+        <target>Não existem dados para os parâmetros informados</target>
+        <note>Class = "UILabel"; text = "Não existem dados para os parâmetros informados"; ObjectID = "sZp-iU-6V5";</note>
+      </trans-unit>
+      <trans-unit id="sdV-SE-743.text" xml:space="preserve">
+        <source>---------</source>
+        <target>---------</target>
+        <note>Class = "UILabel"; text = "---------"; ObjectID = "sdV-SE-743";</note>
+      </trans-unit>
+      <trans-unit id="sns-8E-MAe.text" xml:space="preserve">
+        <source>264073691</source>
+        <target>264073691</target>
+        <note>Class = "UILabel"; text = "264073691"; ObjectID = "sns-8E-MAe";</note>
+      </trans-unit>
+      <trans-unit id="t0C-mD-Wgq.text" xml:space="preserve">
+        <source>01</source>
+        <target>01</target>
+        <note>Class = "UILabel"; text = "01"; ObjectID = "t0C-mD-Wgq";</note>
+      </trans-unit>
+      <trans-unit id="t7d-Gb-j4A.text" xml:space="preserve">
+        <source>6160553-1</source>
+        <target>6160553-1</target>
+        <note>Class = "UILabel"; text = "6160553-1"; ObjectID = "t7d-Gb-j4A";</note>
+      </trans-unit>
+      <trans-unit id="tAx-r6-xKO.title" xml:space="preserve">
+        <source>Serviço</source>
+        <target>Serviço</target>
+        <note>Class = "UINavigationItem"; title = "Serviço"; ObjectID = "tAx-r6-xKO";</note>
+      </trans-unit>
+      <trans-unit id="tYu-z9-j6d.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "tYu-z9-j6d";</note>
+      </trans-unit>
+      <trans-unit id="tan-ah-MD7.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "tan-ah-MD7";</note>
+      </trans-unit>
+      <trans-unit id="tzz-6o-YTz.text" xml:space="preserve">
+        <source>Data</source>
+        <target>Data</target>
+        <note>Class = "UILabel"; text = "Data"; ObjectID = "tzz-6o-YTz";</note>
+      </trans-unit>
+      <trans-unit id="u0T-rm-2Lk.text" xml:space="preserve">
+        <source>Valor</source>
+        <target>Valor</target>
+        <note>Class = "UILabel"; text = "Valor"; ObjectID = "u0T-rm-2Lk";</note>
+      </trans-unit>
+      <trans-unit id="u4Q-P9-c4l.text" xml:space="preserve">
+        <source>10/10/2020</source>
+        <target>10/10/2020</target>
+        <note>Class = "UILabel"; text = "10/10/2020"; ObjectID = "u4Q-P9-c4l";</note>
+      </trans-unit>
+      <trans-unit id="u9S-hl-9A3.text" xml:space="preserve">
+        <source>VALIDADE: JUL/2022</source>
+        <target>VALIDADE: JUL/2022</target>
+        <note>Class = "UILabel"; text = "VALIDADE: JUL/2022"; ObjectID = "u9S-hl-9A3";</note>
+      </trans-unit>
+      <trans-unit id="uB9-8C-Uo1.placeholder" xml:space="preserve">
+        <source>Bandeira</source>
+        <target>Bandeira</target>
+        <note>Class = "UITextField"; placeholder = "Bandeira"; ObjectID = "uB9-8C-Uo1";</note>
+      </trans-unit>
+      <trans-unit id="uDY-Wb-1Q1.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "uDY-Wb-1Q1";</note>
+      </trans-unit>
+      <trans-unit id="ugp-J4-2QK.placeholder" xml:space="preserve">
+        <source>Data inicial</source>
+        <target>Data inicial</target>
+        <note>Class = "UITextField"; placeholder = "Data inicial"; ObjectID = "ugp-J4-2QK";</note>
+      </trans-unit>
+      <trans-unit id="ujo-ZZ-lUz.text" xml:space="preserve">
+        <source>AVALIAÇÃO DIAGNOSTICA</source>
+        <target>AVALIAÇÃO DIAGNOSTICA</target>
+        <note>Class = "UILabel"; text = "AVALIAÇÃO DIAGNOSTICA"; ObjectID = "ujo-ZZ-lUz";</note>
+      </trans-unit>
+      <trans-unit id="ur5-nc-8HF.text" xml:space="preserve">
+        <source>975760</source>
+        <target>975760</target>
+        <note>Class = "UILabel"; text = "975760"; ObjectID = "ur5-nc-8HF";</note>
+      </trans-unit>
+      <trans-unit id="utA-j2-O9y.text" xml:space="preserve">
+        <source>Encargo bolsa</source>
+        <target>Encargo bolsa</target>
+        <note>Class = "UILabel"; text = "Encargo bolsa"; ObjectID = "utA-j2-O9y";</note>
+      </trans-unit>
+      <trans-unit id="uzz-5a-ARv.text" xml:space="preserve">
+        <source>CURRICULAR</source>
+        <target>CURRICULAR</target>
+        <note>Class = "UILabel"; text = "CURRICULAR"; ObjectID = "uzz-5a-ARv";</note>
+      </trans-unit>
+      <trans-unit id="v7a-eu-u06.placeholder" xml:space="preserve">
+        <source>Endereço</source>
+        <target>Endereço</target>
+        <note>Class = "UITextField"; placeholder = "Endereço"; ObjectID = "v7a-eu-u06";</note>
+      </trans-unit>
+      <trans-unit id="v39-SK-49d.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "v39-SK-49d";</note>
+      </trans-unit>
+      <trans-unit id="v73-h5-aGT.text" xml:space="preserve">
+        <source>Detalhes</source>
+        <target>Detalhes</target>
+        <note>Class = "UILabel"; text = "Detalhes"; ObjectID = "v73-h5-aGT";</note>
+      </trans-unit>
+      <trans-unit id="vDa-hH-5YI.normalTitle" xml:space="preserve">
+        <source>Buscar</source>
+        <target>Buscar</target>
+        <note>Class = "UIButton"; normalTitle = "Buscar"; ObjectID = "vDa-hH-5YI";</note>
+      </trans-unit>
+      <trans-unit id="vKz-61-Mke.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "vKz-61-Mke";</note>
+      </trans-unit>
+      <trans-unit id="vNJ-PO-9K9.text" xml:space="preserve">
+        <source>Cpf</source>
+        <target>Cpf</target>
+        <note>Class = "UILabel"; text = "Cpf"; ObjectID = "vNJ-PO-9K9";</note>
+      </trans-unit>
+      <trans-unit id="vV8-3U-J5M.text" xml:space="preserve">
+        <source>Endereço</source>
+        <target>Endereço</target>
+        <note>Class = "UILabel"; text = "Endereço"; ObjectID = "vV8-3U-J5M";</note>
+      </trans-unit>
+      <trans-unit id="vWF-kU-xLE.text" xml:space="preserve">
+        <source>Data processamento</source>
+        <target>Data processamento</target>
+        <note>Class = "UILabel"; text = "Data processamento"; ObjectID = "vWF-kU-xLE";</note>
+      </trans-unit>
+      <trans-unit id="vYd-Nj-Dre.text" xml:space="preserve">
+        <source>Motivo</source>
+        <target>Motivo</target>
+        <note>Class = "UILabel"; text = "Motivo"; ObjectID = "vYd-Nj-Dre";</note>
+      </trans-unit>
+      <trans-unit id="vYk-i3-Qqg.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "vYk-i3-Qqg";</note>
+      </trans-unit>
+      <trans-unit id="vaZ-Mz-H2d.text" xml:space="preserve">
+        <source>Complemento</source>
+        <target>Complemento</target>
+        <note>Class = "UILabel"; text = "Complemento"; ObjectID = "vaZ-Mz-H2d";</note>
+      </trans-unit>
+      <trans-unit id="vkX-bh-3Ml.text" xml:space="preserve">
+        <source>Valor selecionado</source>
+        <target>Valor selecionado</target>
+        <note>Class = "UILabel"; text = "Valor selecionado"; ObjectID = "vkX-bh-3Ml";</note>
+      </trans-unit>
+      <trans-unit id="vmt-Vi-rUN.text" xml:space="preserve">
+        <source>Dados do cartão</source>
+        <target>Dados do cartão</target>
+        <note>Class = "UILabel"; text = "Dados do cartão"; ObjectID = "vmt-Vi-rUN";</note>
+      </trans-unit>
+      <trans-unit id="vmz-lz-HZ3.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "vmz-lz-HZ3";</note>
+      </trans-unit>
+      <trans-unit id="voA-Ap-D9W.text" xml:space="preserve">
+        <source>Campanha</source>
+        <target>Campanha</target>
+        <note>Class = "UILabel"; text = "Campanha"; ObjectID = "voA-Ap-D9W";</note>
+      </trans-unit>
+      <trans-unit id="vq8-KF-n8Q.title" xml:space="preserve">
+        <source>Série</source>
+        <target>Série</target>
+        <note>Class = "UINavigationItem"; title = "Série"; ObjectID = "vq8-KF-n8Q";</note>
+      </trans-unit>
+      <trans-unit id="vvt-5L-38W.title" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "vvt-5L-38W";</note>
+      </trans-unit>
+      <trans-unit id="wWS-cH-6G1.text" xml:space="preserve">
+        <source>AP</source>
+        <target>AP</target>
+        <note>Class = "UILabel"; text = "AP"; ObjectID = "wWS-cH-6G1";</note>
+      </trans-unit>
+      <trans-unit id="wWf-vi-aPC.title" xml:space="preserve">
+        <source>Detalhes</source>
+        <target>Detalhes</target>
+        <note>Class = "UINavigationItem"; title = "Detalhes"; ObjectID = "wWf-vi-aPC";</note>
+      </trans-unit>
+      <trans-unit id="wbp-CT-rZk.segmentTitles[0]" xml:space="preserve">
+        <source>Usar dados do aluno</source>
+        <target>Usar dados do aluno</target>
+        <note>Class = "UISegmentedControl"; wbp-CT-rZk.segmentTitles[0] = "Usar dados do aluno"; ObjectID = "wbp-CT-rZk";</note>
+      </trans-unit>
+      <trans-unit id="wbp-CT-rZk.segmentTitles[1]" xml:space="preserve">
+        <source>Informar novos dados</source>
+        <target>Informar novos dados</target>
+        <note>Class = "UISegmentedControl"; wbp-CT-rZk.segmentTitles[1] = "Informar novos dados"; ObjectID = "wbp-CT-rZk";</note>
+      </trans-unit>
+      <trans-unit id="wi4-05-RQf.text" xml:space="preserve">
+        <source>Parâmetros do serviço</source>
+        <target>Parâmetros do serviço</target>
+        <note>Class = "UILabel"; text = "Parâmetros do serviço"; ObjectID = "wi4-05-RQf";</note>
+      </trans-unit>
+      <trans-unit id="wiW-kJ-3gp.text" xml:space="preserve">
+        <source>OSASCO</source>
+        <target>OSASCO</target>
+        <note>Class = "UILabel"; text = "OSASCO"; ObjectID = "wiW-kJ-3gp";</note>
+      </trans-unit>
+      <trans-unit id="wj5-bS-Mxm.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "wj5-bS-Mxm";</note>
+      </trans-unit>
+      <trans-unit id="x8W-c5-iA9.text" xml:space="preserve">
+        <source>Desconto</source>
+        <target>Desconto</target>
+        <note>Class = "UILabel"; text = "Desconto"; ObjectID = "x8W-c5-iA9";</note>
+      </trans-unit>
+      <trans-unit id="xKy-5t-951.text" xml:space="preserve">
+        <source>Código de autorização</source>
+        <target>Código de autorização</target>
+        <note>Class = "UILabel"; text = "Código de autorização"; ObjectID = "xKy-5t-951";</note>
+      </trans-unit>
+      <trans-unit id="xPt-Wu-wfP.title" xml:space="preserve">
+        <source>Boleto</source>
+        <target>Boleto</target>
+        <note>Class = "UINavigationItem"; title = "Boleto"; ObjectID = "xPt-Wu-wfP";</note>
+      </trans-unit>
+      <trans-unit id="xQX-v7-MYl.text" xml:space="preserve">
+        <source>Descrição</source>
+        <target>Descrição</target>
+        <note>Class = "UILabel"; text = "Descrição"; ObjectID = "xQX-v7-MYl";</note>
+      </trans-unit>
+      <trans-unit id="xcU-fG-KiF.text" xml:space="preserve">
+        <source>9006327</source>
+        <target>9006327</target>
+        <note>Class = "UILabel"; text = "9006327"; ObjectID = "xcU-fG-KiF";</note>
+      </trans-unit>
+      <trans-unit id="xfZ-sf-xGH.text" xml:space="preserve">
+        <source>08 de setembro de 2020</source>
+        <target>08 de setembro de 2020</target>
+        <note>Class = "UILabel"; text = "08 de setembro de 2020"; ObjectID = "xfZ-sf-xGH";</note>
+      </trans-unit>
+      <trans-unit id="xvv-gR-zwV.text" xml:space="preserve">
+        <source>Forma de pagamento</source>
+        <target>Forma de pagamento</target>
+        <note>Class = "UILabel"; text = "Forma de pagamento"; ObjectID = "xvv-gR-zwV";</note>
+      </trans-unit>
+      <trans-unit id="y6c-hj-Y58.text" xml:space="preserve">
+        <source>Não há acordos disponíveis para você</source>
+        <target>Não há acordos disponíveis para você</target>
+        <note>Class = "UILabel"; text = "Não há acordos disponíveis para você"; ObjectID = "y6c-hj-Y58";</note>
+      </trans-unit>
+      <trans-unit id="yF1-od-qpS.text" xml:space="preserve">
+        <source>Valor total</source>
+        <target>Valor total</target>
+        <note>Class = "UILabel"; text = "Valor total"; ObjectID = "yF1-od-qpS";</note>
+      </trans-unit>
+      <trans-unit id="yM8-YR-Gxx.text" xml:space="preserve">
+        <source>R$ 100,00</source>
+        <target>R$ 100,00</target>
+        <note>Class = "UILabel"; text = "R$ 100,00"; ObjectID = "yM8-YR-Gxx";</note>
+      </trans-unit>
+      <trans-unit id="yVK-kv-T81.text" xml:space="preserve">
+        <source>Professora da UNIP colabora em pesquisa sobre papel protetor de hormonios feminos contra COVID-19</source>
+        <target>Professora da UNIP colabora em pesquisa sobre papel protetor de hormonios feminos contra COVID-19</target>
+        <note>Class = "UILabel"; text = "Professora da UNIP colabora em pesquisa sobre papel protetor de hormonios feminos contra COVID-19"; ObjectID = "yVK-kv-T81";</note>
+      </trans-unit>
+      <trans-unit id="yVU-Uz-M57.placeholder" xml:space="preserve">
+        <source>CEP </source>
+        <target>CEP </target>
+        <note>Class = "UITextField"; placeholder = "CEP "; ObjectID = "yVU-Uz-M57";</note>
+      </trans-unit>
+      <trans-unit id="yc8-b1-0W8.placeholder" xml:space="preserve">
+        <source>Matrícula</source>
+        <target>Matrícula</target>
+        <note>Class = "UITextField"; placeholder = "Matrícula"; ObjectID = "yc8-b1-0W8";</note>
+      </trans-unit>
+      <trans-unit id="ydx-0L-cz0.text" xml:space="preserve">
+        <source>08 de setembro de 2020</source>
+        <target>08 de setembro de 2020</target>
+        <note>Class = "UILabel"; text = "08 de setembro de 2020"; ObjectID = "ydx-0L-cz0";</note>
+      </trans-unit>
+      <trans-unit id="ysV-71-qTG.text" xml:space="preserve">
+        <source>Encargo calculado</source>
+        <target>Encargo calculado</target>
+        <note>Class = "UILabel"; text = "Encargo calculado"; ObjectID = "ysV-71-qTG";</note>
+      </trans-unit>
+      <trans-unit id="z0J-sz-Lhw.text" xml:space="preserve">
+        <source>R$ 000,00</source>
+        <target>R$ 000,00</target>
+        <note>Class = "UILabel"; text = "R$ 000,00"; ObjectID = "z0J-sz-Lhw";</note>
+      </trans-unit>
+      <trans-unit id="z07-sK-jrD.text" xml:space="preserve">
+        <source>22/10/2020</source>
+        <target>22/10/2020</target>
+        <note>Class = "UILabel"; text = "22/10/2020"; ObjectID = "z07-sK-jrD";</note>
+      </trans-unit>
+      <trans-unit id="z9i-KC-Y2p.text" xml:space="preserve">
+        <source>Situação do pagamento</source>
+        <target>Situação do pagamento</target>
+        <note>Class = "UILabel"; text = "Situação do pagamento"; ObjectID = "z9i-KC-Y2p";</note>
+      </trans-unit>
+      <trans-unit id="z37-Kl-2Hz.text" xml:space="preserve">
+        <source>DEZEMBRO/2020</source>
+        <target>DEZEMBRO/2020</target>
+        <note>Class = "UILabel"; text = "DEZEMBRO/2020"; ObjectID = "z37-Kl-2Hz";</note>
+      </trans-unit>
+      <trans-unit id="zDS-Ti-HnM.text" xml:space="preserve">
+        <source>Andamentos</source>
+        <target>Andamentos</target>
+        <note>Class = "UILabel"; text = "Andamentos"; ObjectID = "zDS-Ti-HnM";</note>
+      </trans-unit>
+      <trans-unit id="zE9-6q-1aq.title" xml:space="preserve">
+        <source>Detalhes</source>
+        <target>Detalhes</target>
+        <note>Class = "UINavigationItem"; title = "Detalhes"; ObjectID = "zE9-6q-1aq";</note>
+      </trans-unit>
+      <trans-unit id="zHh-dL-gHe.text" xml:space="preserve">
+        <source>Simulador de média</source>
+        <target>Simulador de média</target>
+        <note>Class = "UILabel"; text = "Simulador de média"; ObjectID = "zHh-dL-gHe";</note>
+      </trans-unit>
+      <trans-unit id="zOR-Zr-kQv.text" xml:space="preserve">
+        <source>Valor selecionado</source>
+        <target>Valor selecionado</target>
+        <note>Class = "UILabel"; text = "Valor selecionado"; ObjectID = "zOR-Zr-kQv";</note>
+      </trans-unit>
+      <trans-unit id="zSQ-xs-SZe.text" xml:space="preserve">
+        <source>Comprovante</source>
+        <target>Comprovante</target>
+        <note>Class = "UILabel"; text = "Comprovante"; ObjectID = "zSQ-xs-SZe";</note>
+      </trans-unit>
+      <trans-unit id="zZC-2B-9pz.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "zZC-2B-9pz";</note>
+      </trans-unit>
+      <trans-unit id="zf4-Kw-0Su.text" xml:space="preserve">
+        <source>0.00</source>
+        <target>0.00</target>
+        <note>Class = "UILabel"; text = "0.00"; ObjectID = "zf4-Kw-0Su";</note>
+      </trans-unit>
+      <trans-unit id="zmd-nP-3dQ.text" xml:space="preserve">
+        <source>Você não realizou nenhum acordo</source>
+        <target>Você não realizou nenhum acordo</target>
+        <note>Class = "UILabel"; text = "Você não realizou nenhum acordo"; ObjectID = "zmd-nP-3dQ";</note>
+      </trans-unit>
+      <trans-unit id="zrl-2X-rDR.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "zrl-2X-rDR";</note>
+      </trans-unit>
+      <trans-unit id="zum-I7-GWL.title" xml:space="preserve">
+        <source>Notícias</source>
+        <target>Notícias</target>
+        <note>Class = "UINavigationItem"; title = "Notícias"; ObjectID = "zum-I7-GWL";</note>
+      </trans-unit>
+      <trans-unit id="zwe-1u-IFh.text" xml:space="preserve">
+        <source>R$ 10.000,00</source>
+        <target>R$ 10.000,00</target>
+        <note>Class = "UILabel"; text = "R$ 10.000,00"; ObjectID = "zwe-1u-IFh";</note>
+      </trans-unit>
+      <trans-unit id="zxR-9Z-uHU.text" xml:space="preserve">
+        <source>Nenhum campus localizado</source>
+        <target>Nenhum campus localizado</target>
+        <note>Class = "UILabel"; text = "Nenhum campus localizado"; ObjectID = "zxR-9Z-uHU";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnipEad/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Unip EaD</source>
+        <target>Unip EaD</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>Posso usar sua câmera</source>
+        <target>Posso usar sua câmera</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

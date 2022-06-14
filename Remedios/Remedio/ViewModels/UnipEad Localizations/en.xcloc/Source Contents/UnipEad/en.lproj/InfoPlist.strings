@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "Unip EaD";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Posso usar sua câmera";

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Agendamento" representedClassName="Agendamento" syncable="YES" codeGenerationType="class">
+        <attribute name="comeca" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="frequencia" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="paciente" optional="YES" attributeType="String"/>
+        <attribute name="remedio" optional="YES" attributeType="String"/>
+        <attribute name="termina" optional="YES" attributeType="Date"/>
+        <attribute name="usoContinuo" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="Agendamento" positionX="-618.0391235351562" positionY="-317.9718627929688" width="128" height="134"/>
+        <element name="Item" positionX="-603" positionY="-252" width="128" height="44"/>
+    </elements>
+</model>
