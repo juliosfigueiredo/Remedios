@@ -44,13 +44,15 @@ struct AddRemedioView: View {
                     }
                 }
                 Toggle("Uso continuo", isOn: $viewModel.usoContinuo)
-                DatePicker(selection: $viewModel.comeca, in: dateClosedRange, displayedComponents: .date) {
+                DatePicker(selection: $viewModel.comeca, in: dateClosedRange) {
                     Text("Começa")
                 }
+                .datePickerStyle(CompactDatePickerStyle())
                 .disabled(viewModel.usoContinuo == true)
-                DatePicker(selection: $viewModel.termina, in: dateClosedRange, displayedComponents: .date) {
+                DatePicker(selection: $viewModel.termina, in: dateClosedRange) {
                     Text("Termina")
                 }
+                .datePickerStyle(CompactDatePickerStyle())
                 .disabled(viewModel.usoContinuo == true)
             }
             .navigationBarTitle("Adicionar remédio")

@@ -10,7 +10,6 @@ import SwiftUI
 struct RemedioView: View {
     @EnvironmentObject var viewModel: RemedioViewModel
     @State var isShowView: Bool = false
-    //@State var isShowBoasVindas: Bool = true
     
     var body: some View {
         NavigationView {

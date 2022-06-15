@@ -13,6 +13,7 @@
 		4304E987284EBABA0084F5A8 /* RemedioInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4304E986284EBABA0084F5A8 /* RemedioInteractor.swift */; };
 		4304E989284EF2BE0084F5A8 /* AddRemedioUIState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4304E988284EF2BD0084F5A8 /* AddRemedioUIState.swift */; };
 		430F6C6D28504FF20063625E /* AddRemedioModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430F6C6C28504FF20063625E /* AddRemedioModel.swift */; };
+		4324990E28596C0800D8002B /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4324991028596C0800D8002B /* Localizable.strings */; };
 		4350E8832853F265003BCC36 /* RemedioViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4350E8822853F265003BCC36 /* RemedioViewModel.swift */; };
 		4350E8852853F8DE003BCC36 /* RemedioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4350E8842853F8DE003BCC36 /* RemedioView.swift */; };
 		437DAC802853B6F8003FBED6 /* RemedioRowViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437DAC7F2853B6F8003FBED6 /* RemedioRowViewModel.swift */; };
@@ -57,6 +58,7 @@
 		4304E986284EBABA0084F5A8 /* RemedioInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioInteractor.swift; sourceTree = "<group>"; };
 		4304E988284EF2BD0084F5A8 /* AddRemedioUIState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRemedioUIState.swift; sourceTree = "<group>"; };
 		430F6C6C28504FF20063625E /* AddRemedioModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRemedioModel.swift; sourceTree = "<group>"; };
+		4324990F28596C0800D8002B /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		4350E8822853F265003BCC36 /* RemedioViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioViewModel.swift; sourceTree = "<group>"; };
 		4350E8842853F8DE003BCC36 /* RemedioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioView.swift; sourceTree = "<group>"; };
 		437DAC7F2853B6F8003FBED6 /* RemedioRowViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioRowViewModel.swift; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 				43A723DB28583AEE0019DAEA /* Launch */,
 				4380A809284B058F008CDC89 /* Remedios.xcdatamodeld */,
 				4380A804284B058F008CDC89 /* Preview Content */,
+				4324991028596C0800D8002B /* Localizable.strings */,
 			);
 			path = Remedios;
 			sourceTree = "<group>";
@@ -404,6 +407,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4380A806284B058F008CDC89 /* Preview Assets.xcassets in Resources */,
+				4324990E28596C0800D8002B /* Localizable.strings in Resources */,
 				4380A803284B058F008CDC89 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -482,6 +486,17 @@
 			targetProxy = 4380A81B284B0590008CDC89 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4324991028596C0800D8002B /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4324990F28596C0800D8002B /* pt-BR */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		4380A822284B0590008CDC89 /* Debug */ = {
