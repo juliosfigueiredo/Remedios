@@ -15,6 +15,7 @@ struct RemedioRowViewModel: Identifiable, Equatable {
     var frequencia:Int16 = 0
     var inicio = Date()
     var final = Date()
+    var usoContinuo = false
     
     var remedioPublisher: PassthroughSubject<Bool, Never>
     

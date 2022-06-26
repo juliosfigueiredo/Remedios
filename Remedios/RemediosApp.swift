@@ -6,9 +6,12 @@
 //
 
 import SwiftUI
+import UserNotifications
+import NotificationCenter
 
 @main
 struct RemediosApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     let persistenceController = PersistenceController.shared
     @Environment(\.scenePhase) private var scenePhase
     var viewModel: RemedioViewModel
@@ -19,6 +22,7 @@ struct RemediosApp: App {
         if appInit {
             viewModel.appInit = false
         }
+        
     }
     
     var body: some Scene {
@@ -44,6 +48,7 @@ struct RemediosApp: App {
     }
     
     private func autorizarNotificar() {
+        
         UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { success, error in
             if success {
                 print("All set!")
@@ -51,5 +56,39 @@ struct RemediosApp: App {
                 print(error.localizedDescription)
             }
         }
+    }
+    
+    
+}
+
+extension AppDelegate: UNUserNotificationCenterDelegate {
+    func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        
+    }
+    
+    func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        switch response.actionIdentifier {
+        case "remediosCategory.stopNotificationAction":
+            removeNotification(id: response.notification.request.identifier)
+        case "remediosCategory.cancelarAction": break
+            // Handle action
+        default:
+            break
+        }
+        completionHandler()
+    }
+    
+    private func removeNotification(id: String) {
+        UNUserNotificationCenter.current().removeDeliveredNotifications(withIdentifiers: [id])
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [id])
+    }
+}
+
+class AppDelegate: NSObject, UIApplicationDelegate {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
+        // Show local notification in foreground
+        UNUserNotificationCenter.current().delegate = self
+        
+        return true
     }
 }

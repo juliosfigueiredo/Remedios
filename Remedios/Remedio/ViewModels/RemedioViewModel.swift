@@ -30,7 +30,8 @@ class RemedioViewModel:ObservableObject {
     }
     
     deinit {
-      cancellableRequest?.cancel()
+        cancellableRequest?.cancel()
+        cancellableNotify?.cancel()
     }
     
     func checkAppInit() -> Bool {
@@ -57,6 +58,7 @@ class RemedioViewModel:ObservableObject {
                                                             frequencia: $0.frequencia,
                                                             inicio: $0.comeca!,
                                                             final: $0.termina!,
+                                                            usoContinuo: $0.usoContinuo,
                                                             remedioPublisher: self.remedioPublisher)
                             
                             return model

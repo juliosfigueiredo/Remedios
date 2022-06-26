@@ -34,7 +34,8 @@ class AddRemedioViewModel: ObservableObject {
     }
     
     func addRemedio() {
-        let model = AddRemedioModel(id: UUID().uuidString,
+        let id = UUID().uuidString
+        let model = AddRemedioModel(id: id,
                                     paciente: self.paciente,
                                     remedio: self.remedio,
                                     frequencia: self.getFrequencia(),
@@ -44,6 +45,8 @@ class AddRemedioViewModel: ObservableObject {
         
         interactor.add(context: context!, model: model)
         self.remedioPublisher?.send(true)
+        //self.addNotificacao(id: id)
+        self.addNotification(id: id)
     }
     
     func getFrequencia() -> Int16 {
@@ -61,10 +64,40 @@ class AddRemedioViewModel: ObservableObject {
         }
     }
     
-    func addNotificacao() {
+    func addNotification(id: String) {
+        let stopNotificationAction = UNNotificationAction(identifier: "remediosCategory.stopNotificationAction", title: "Parar notificação", options: [])
+        let cancelarAction = UNNotificationAction(identifier: "remediosCategory.cancelarAction", title: "Cancelar", options: [])
+
+        let remediosCategory = UNNotificationCategory(
+            identifier: "remediosCategory",
+            actions: [stopNotificationAction, cancelarAction],
+            intentIdentifiers: [],
+            options: .customDismissAction)
+        let frequencia = Int(getFrequencia())
+        let time = frequencia * 60 * 60
         let content = UNMutableNotificationContent()
-        content.title = "Teste"
-        content.subtitle = "Testando notificaçãp"
+        content.title = "Remédios"
+        content.body = "\(paciente)! está na hora de tomar \(remedio)"
+        content.sound = .default
+        content.categoryIdentifier = "remediosCategory"
+
+        UNUserNotificationCenter.current().setNotificationCategories([remediosCategory])
+        
+        let trigger = UNTimeIntervalNotificationTrigger.init(timeInterval: TimeInterval(time), repeats: true)
+
+        // choose a random identifier
+        let request = UNNotificationRequest(identifier: id, content: content, trigger: trigger)
+
+        // add our notification request
+        UNUserNotificationCenter.current().add(request)
+    }
+    
+    func addNotificacao(id: String) {
+        let frequencia = Int(getFrequencia())
+        let time = frequencia * 60 * 60
+        let content = UNMutableNotificationContent()
+        content.title = "Remédios"
+        content.subtitle = "Está na hora do \(paciente) tomar \(remedio)"
         content.sound = UNNotificationSound.default
 
         // show this notification five seconds from now
@@ -74,10 +107,10 @@ class AddRemedioViewModel: ObservableObject {
         date.minute = 18
         let trigger = UNCalendarNotificationTrigger(dateMatching: date, repeats: true)*/
         
-        let trigger = UNTimeIntervalNotificationTrigger.init(timeInterval: 60, repeats: true)
+        let trigger = UNTimeIntervalNotificationTrigger.init(timeInterval: TimeInterval(time), repeats: true)
 
         // choose a random identifier
-        let request = UNNotificationRequest(identifier: "teste", content: content, trigger: trigger)
+        let request = UNNotificationRequest(identifier: id, content: content, trigger: trigger)
 
         // add our notification request
         UNUserNotificationCenter.current().add(request)
@@ -109,7 +142,8 @@ class AddRemedioViewModel: ObservableObject {
     }
     
     func removeNotification() {
-        
+        UNUserNotificationCenter.current().removeAllPendingNotificationRequests()
+        /*
         var array:[String] = []
         
         array.append("teste")
@@ -117,6 +151,7 @@ class AddRemedioViewModel: ObservableObject {
         let center = UNUserNotificationCenter.current()
         center.removePendingNotificationRequests(withIdentifiers: array)
         center.removeDeliveredNotifications(withIdentifiers: array)
+         */
     }
 
 }

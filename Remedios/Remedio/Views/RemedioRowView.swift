@@ -23,18 +23,12 @@ struct RemedioRowView: View {
                     Text(viewModel.nome)
                         .font(.subheadline)
                     Spacer()
-                    Text("\(viewModel.frequencia) em \(viewModel.frequencia) horas")
+                    Text(viewModel.frequencia == 24 ? "1 vez ao dia" : "\(viewModel.frequencia) em \(viewModel.frequencia) horas")
                         .font(.subheadline)
                 }
-                HStack {
-                    Text(viewModel.inicio.addingTimeInterval(600), style: .date)
-                        .font(.subheadline)
-                        .foregroundColor(.gray)
-                    Spacer()
-                    Text(viewModel.final.addingTimeInterval(600), style: .date)
-                        .font(.subheadline)
-                        .foregroundColor(.gray)
-                }
+                Text(viewModel.usoContinuo ? "Uso contínuo" : "\(viewModel.inicio.formatted()) à \(viewModel.final.formatted())")
+                    .font(.subheadline)
+                    .foregroundColor(.gray)
             }
             .padding()
         }

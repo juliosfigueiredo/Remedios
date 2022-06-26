@@ -8,6 +8,8 @@
 import Foundation
 import Combine
 import CoreData
+import UserNotifications
+import NotificationCenter
 
 class LocalDataSource {
   
@@ -55,6 +57,12 @@ class LocalDataSource {
         }
     }
     
+    private func removeNotification(id: String) {
+        UNUserNotificationCenter.current().removeDeliveredNotifications(withIdentifiers: [id])
+        UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: [id])
+    }
+
+    
     private func readAgendamentos(com context: NSManagedObjectContext) -> [Agendamento] {
         let fetchRequest: NSFetchRequest<Agendamento> = Agendamento.fetchRequest()
         let sortDescritor = NSSortDescriptor(key: "comeca", ascending: true)
@@ -84,6 +92,7 @@ extension LocalDataSource {
     
     func deleteAgendamento(com context: NSManagedObjectContext, id: String) {
         removeAgendamento(idAgendamento: id, context: context)
+        removeNotification(id: id)
     }
     
     func setAppInit() {
