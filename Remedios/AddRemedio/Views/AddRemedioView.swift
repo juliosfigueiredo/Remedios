@@ -18,6 +18,8 @@ enum Frequencia: String, CaseIterable, Identifiable {
     case dezHoras = "10 em 10 horas"
     case oitoHoras = "8 em 8 horas"
     case seisHoras = "6 em 6 horas"
+    case tresHoras = "3 em 3 horas"
+    case umaHora = "1 em 1 hora"
     var id: Self { self }
 }
 
@@ -44,16 +46,18 @@ struct AddRemedioView: View {
                     }
                 }
                 Toggle("Uso continuo", isOn: $viewModel.usoContinuo)
-                DatePicker(selection: $viewModel.comeca, in: dateClosedRange) {
-                    Text("Começa")
+                if !viewModel.usoContinuo {
+                    DatePicker(selection: $viewModel.comeca, in: dateClosedRange) {
+                        Text("Começa")
+                    }
+                    .datePickerStyle(CompactDatePickerStyle())
+                    .disabled(viewModel.usoContinuo == true)
+                    DatePicker(selection: $viewModel.termina, in: dateClosedRange) {
+                        Text("Termina")
+                    }
+                    .datePickerStyle(CompactDatePickerStyle())
+                    .disabled(viewModel.usoContinuo == true)
                 }
-                .datePickerStyle(CompactDatePickerStyle())
-                .disabled(viewModel.usoContinuo == true)
-                DatePicker(selection: $viewModel.termina, in: dateClosedRange) {
-                    Text("Termina")
-                }
-                .datePickerStyle(CompactDatePickerStyle())
-                .disabled(viewModel.usoContinuo == true)
             }
             .navigationBarTitle("Adicionar remédio")
             .navigationBarTitleDisplayMode(.inline)
@@ -83,11 +87,3 @@ struct AddRemedioView: View {
         presentationMode.wrappedValue.dismiss()
     }
 }
-/*
-struct AddRemedioView_Previews: PreviewProvider {
-    @State static var isShowing = true
-    static var previews: some View {
-        AddRemedioView(viewModel: AddRemedioViewModel(interactor: AddRemedioInteractor()))
-    }
-}
-*/

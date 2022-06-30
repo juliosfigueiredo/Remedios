@@ -61,6 +61,10 @@ class AddRemedioViewModel: ObservableObject {
             return 8
         case .seisHoras:
             return 6
+        case .tresHoras:
+            return 3
+        case .umaHora:
+            return 1
         }
     }
     
@@ -74,7 +78,7 @@ class AddRemedioViewModel: ObservableObject {
             intentIdentifiers: [],
             options: .customDismissAction)
         let frequencia = Int(getFrequencia())
-        let time = frequencia * 60 * 60
+        let time:TimeInterval = TimeInterval(frequencia * 60 * 60)
         let content = UNMutableNotificationContent()
         content.title = "Remédios"
         content.body = "\(paciente)! está na hora de tomar \(remedio)"
@@ -83,7 +87,7 @@ class AddRemedioViewModel: ObservableObject {
 
         UNUserNotificationCenter.current().setNotificationCategories([remediosCategory])
         
-        let trigger = UNTimeIntervalNotificationTrigger.init(timeInterval: TimeInterval(time), repeats: true)
+        let trigger = UNTimeIntervalNotificationTrigger.init(timeInterval: time, repeats: true)
 
         // choose a random identifier
         let request = UNNotificationRequest(identifier: id, content: content, trigger: trigger)
