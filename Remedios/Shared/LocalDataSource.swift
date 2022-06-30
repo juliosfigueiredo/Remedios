@@ -92,6 +92,10 @@ extension LocalDataSource {
     
     func deleteAgendamento(com context: NSManagedObjectContext, id: String) {
         removeAgendamento(idAgendamento: id, context: context)
+        deleteNotication(id: id)
+    }
+    
+    func deleteNotication(id: String) {
         removeNotification(id: id)
     }
     

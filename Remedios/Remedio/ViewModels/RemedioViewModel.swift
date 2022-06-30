@@ -51,7 +51,6 @@ class RemedioViewModel:ObservableObject {
                 if !lista.isEmpty {
                     self.uiState = .fullList(
                         lista.map {
-                            
                             let model = RemedioRowViewModel(id: $0.id!,
                                                             remedio: $0.remedio!,
                                                             nome: $0.paciente!,
@@ -59,6 +58,7 @@ class RemedioViewModel:ObservableObject {
                                                             inicio: $0.comeca!,
                                                             final: $0.termina!,
                                                             usoContinuo: $0.usoContinuo,
+                                                            ativo: self.getInativos(id: $0.id!, termina: $0.termina!, usoContinuo: $0.usoContinuo),
                                                             remedioPublisher: self.remedioPublisher)
                             
                             return model
@@ -68,6 +68,18 @@ class RemedioViewModel:ObservableObject {
                     self.uiState = .emptyList
                 }
             })
+    }
+    
+    private func getInativos(id: String, termina: Date, usoContinuo: Bool) -> Bool {
+        if !usoContinuo {
+            let ativo = Date() < termina
+            
+            if !ativo {
+                interactor.deleteNotification(id: id)
+            }
+            return ativo
+        }
+        return true
     }
 }
 

@@ -18,6 +18,10 @@ extension RemedioInteractor {
         local.deleteAgendamento(com: context, id: id)
     }
     
+    func deleteNotification(id: String) {
+        local.deleteNotication(id: id)
+    }
+    
     func loadAgendamentos(context: NSManagedObjectContext) -> Future<[Agendamento]?, Never> {
         local.getAgendamentos(com: context)
     }

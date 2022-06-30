@@ -16,6 +16,7 @@ struct RemedioRowViewModel: Identifiable, Equatable {
     var inicio = Date()
     var final = Date()
     var usoContinuo = false
+    var ativo = false
     
     var remedioPublisher: PassthroughSubject<Bool, Never>
     

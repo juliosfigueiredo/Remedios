@@ -31,6 +31,7 @@ struct RemedioRowView: View {
             }
             .padding(3)
         }
+        .opacity(viewModel.ativo ? 1 : 0.3)
     }
 }
 /*
