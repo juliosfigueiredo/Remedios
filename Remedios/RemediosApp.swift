@@ -39,6 +39,7 @@ struct RemediosApp: App {
                     case .inactive:
                         print("Meu app está em inativo")
                     case .active:
+                        viewModel.getRemedios()
                         autorizarNotificar()
                     @unknown default:
                         print("Meu app está em estado indefinido")
