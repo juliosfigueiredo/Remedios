@@ -30,6 +30,7 @@ struct RemedioRowView: View {
                     .foregroundColor(.gray)
             }
             .padding(3)
+            .padding(.trailing)
         }
         .opacity(viewModel.ativo ? 1 : 0.3)
     }
