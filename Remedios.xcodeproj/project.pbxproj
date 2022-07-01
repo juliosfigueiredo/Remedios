@@ -62,7 +62,7 @@
 		4350E8822853F265003BCC36 /* RemedioViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioViewModel.swift; sourceTree = "<group>"; };
 		4350E8842853F8DE003BCC36 /* RemedioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioView.swift; sourceTree = "<group>"; };
 		437DAC7F2853B6F8003FBED6 /* RemedioRowViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemedioRowViewModel.swift; sourceTree = "<group>"; };
-		4380A7FB284B058C008CDC89 /* Remedios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Remedios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4380A7FB284B058C008CDC89 /* Remedio na Hora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Remedio na Hora.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4380A7FE284B058D008CDC89 /* RemediosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemediosApp.swift; sourceTree = "<group>"; };
 		4380A802284B058F008CDC89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4380A805284B058F008CDC89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -218,7 +218,7 @@
 		4380A7FC284B058C008CDC89 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4380A7FB284B058C008CDC89 /* Remedios.app */,
+				4380A7FB284B058C008CDC89 /* Remedio na Hora.app */,
 				4380A810284B0590008CDC89 /* RemediosTests.xctest */,
 				4380A81A284B0590008CDC89 /* RemediosUITests.xctest */,
 			);
@@ -318,7 +318,7 @@
 			);
 			name = Remedios;
 			productName = Remedios;
-			productReference = 4380A7FB284B058C008CDC89 /* Remedios.app */;
+			productReference = 4380A7FB284B058C008CDC89 /* Remedio na Hora.app */;
 			productType = "com.apple.product-type.application";
 		};
 		4380A80F284B0590008CDC89 /* RemediosTests */ = {
@@ -635,7 +635,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = br.julio.remediolembrete;
-				PRODUCT_NAME = Remedios;
+				PRODUCT_NAME = "Remedio na Hora";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -664,7 +664,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = br.julio.remediolembrete;
-				PRODUCT_NAME = Remedios;
+				PRODUCT_NAME = "Remedio na Hora";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

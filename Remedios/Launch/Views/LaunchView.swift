@@ -20,8 +20,8 @@ struct LaunchView: View {
                 Text("Bem-vindo(a) ao")
                     .font(.title)
                     .fontWeight(.bold)
-                Text("Remédios")
-                    .font(.system(size: 50, weight: .bold, design: .rounded))
+                Text("Remédio na Hora")
+                    .font(.system(size: 40, weight: .bold, design: .rounded))
                     .font(.title)
                     .fontWeight(.bold)
             }
