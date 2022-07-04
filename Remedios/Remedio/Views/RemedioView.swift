@@ -16,30 +16,8 @@ struct RemedioView: View {
             ZStack {
                 if case RemedioUIState.fullList(let rows) = viewModel.uiState {
                     List {
-                        Section(header: Text("Ativos")) {
-                            ForEach(rows, id: \.id) { row in
-                                if row.ativo {
-                                    RemedioRowView(viewModel: row)
-                                }
-                            }
-                            .onDelete { index in
-                                let item = rows[index.first!]
-                                viewModel.deleteRemedio(id: item.id)
-                                viewModel.getRemedios()
-                            }
-                        }
-                        Section(header: Text("Vencidos")) {
-                            ForEach(rows, id: \.id) { row in
-                                if !row.ativo {
-                                    RemedioRowView(viewModel: row)
-                                }
-                            }
-                            .onDelete { index in
-                                let item = rows[index.first!]
-                                viewModel.deleteRemedio(id: item.id)
-                                viewModel.getRemedios()
-                            }
-                        }
+                        SectionView(rows: rows, titulo: "Ativos", ativo: true)
+                        SectionView(rows: rows, titulo: "Vencidos", ativo: false)
                     }
                 } else if case RemedioUIState.loading = viewModel.uiState {
                     ProgressView()
