@@ -25,14 +25,8 @@ enum Frequencia: String, CaseIterable, Identifiable {
 
 struct AddRemedioView: View {
     
-    @ObservedObject var viewModel: AddRemedioViewModel
+    @StateObject var viewModel: AddRemedioViewModel
     @Environment(\.presentationMode) var presentationMode
-    
-    var dateClosedRange: ClosedRange<Date> {
-        let today = Calendar.current.date(byAdding: .minute, value: -1, to: Date())!
-        let seven = Calendar.current.date(byAdding: .day, value: 90, to: Date())!
-        return today...seven
-    }
     
     var body: some View {
         NavigationView {
@@ -47,16 +41,7 @@ struct AddRemedioView: View {
                 }
                 Toggle("Uso continuo", isOn: $viewModel.usoContinuo)
                 if !viewModel.usoContinuo {
-                    DatePicker(selection: $viewModel.comeca, in: dateClosedRange) {
-                        Text("Começa")
-                    }
-                    .datePickerStyle(CompactDatePickerStyle())
-                    .disabled(viewModel.usoContinuo == true)
-                    DatePicker(selection: $viewModel.termina, in: dateClosedRange) {
-                        Text("Termina")
-                    }
-                    .datePickerStyle(CompactDatePickerStyle())
-                    .disabled(viewModel.usoContinuo == true)
+                    DatePickerView()
                 }
             }
             .navigationBarTitle("Adicionar remédio")
@@ -81,6 +66,7 @@ struct AddRemedioView: View {
                 }
             }
         }
+        .environmentObject(viewModel)
     }
     
     private func dismiss() {

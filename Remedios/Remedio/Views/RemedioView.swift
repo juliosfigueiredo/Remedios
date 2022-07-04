@@ -40,7 +40,6 @@ struct RemedioView: View {
                                 viewModel.getRemedios()
                             }
                         }
-                        
                     }
                 } else if case RemedioUIState.loading = viewModel.uiState {
                     ProgressView()
