@@ -52,7 +52,7 @@ struct RemedioView: View {
                             .clipShape(Circle())
                             .foregroundColor(.white)
                     }
-                    .fullScreenCover(isPresented: $isShowView) {
+                    .sheet(isPresented: $isShowView) {
                         viewModel.addRemedioView()
                     }
                 }

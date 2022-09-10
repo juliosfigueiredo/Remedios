@@ -31,7 +31,7 @@ struct AddRemedioView: View {
     var body: some View {
         NavigationView {
             Form {
-                TextField("Nome do usuario", text: $viewModel.paciente)
+                TextField("Nome do usuário", text: $viewModel.paciente)
                 TextField("Nome do remédio", text: $viewModel.remedio)
                 
                 Picker("Frequência de uso", selection: $viewModel.selectedFrequencia) {

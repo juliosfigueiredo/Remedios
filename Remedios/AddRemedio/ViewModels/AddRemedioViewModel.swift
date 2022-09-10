@@ -83,7 +83,7 @@ class AddRemedioViewModel: ObservableObject {
         let frequencia = Int(getFrequencia())
         let time:TimeInterval = TimeInterval(frequencia * 60 * 60)
         let content = UNMutableNotificationContent()
-        content.title = "Remédios"
+        content.title = "Remédio na Hora"
         content.body = "\(paciente)! está na hora de tomar \(remedio)"
         content.sound = .default
         content.categoryIdentifier = "remediosCategory"

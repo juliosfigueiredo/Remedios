@@ -13,12 +13,12 @@ struct DatePickerView: View {
     var body: some View {
         VStack {
             DatePicker(selection: $viewModel.comeca, in: viewModel.dateClosedRange) {
-                Text("Começa")
+                Text("Início")
             }
             .datePickerStyle(CompactDatePickerStyle())
             .disabled(viewModel.usoContinuo == true)
             DatePicker(selection: $viewModel.termina, in: viewModel.dateClosedRange) {
-                Text("Termina")
+                Text("Término")
             }
             .datePickerStyle(CompactDatePickerStyle())
             .disabled(viewModel.usoContinuo == true)

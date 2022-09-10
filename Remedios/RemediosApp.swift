@@ -41,11 +41,22 @@ struct RemediosApp: App {
                     case .active:
                         viewModel.getRemedios()
                         autorizarNotificar()
+                        getDataInstalacaoDoApp()
                     @unknown default:
                         print("Meu app está em estado indefinido")
                         
                     }
                 }
+    }
+    
+    private func getDataInstalacaoDoApp() {
+        if
+            let urlToDocumentsFolder = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).last,
+            let installDateAny = (try? FileManager.default.attributesOfItem(atPath: urlToDocumentsFolder.path)[.creationDate]),
+            let installDate = installDateAny as? Date
+        {
+            print("This app was installed by the user on \(installDate)")
+        }
     }
     
     private func autorizarNotificar() {
