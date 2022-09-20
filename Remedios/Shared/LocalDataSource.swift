@@ -13,10 +13,10 @@ import NotificationCenter
 
 class LocalDataSource {
   
-  static var shared: LocalDataSource = LocalDataSource()
+    static var shared: LocalDataSource = LocalDataSource()
     var agendamentos:[Agendamento] = []
   
-  private init() {}
+    private init() {}
     
     private func saveAppInit() {
         UserDefaults.standard.set(true, forKey: "app_init")
