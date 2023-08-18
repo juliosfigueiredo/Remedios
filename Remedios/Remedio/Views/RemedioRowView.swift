@@ -13,7 +13,7 @@ struct RemedioRowView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             VStack(alignment: .leading, spacing: 5) {
-                Label("Remédio", systemImage: "pills.fill")
+                Label("Remédio", systemImage: "pills")
                     .accessibilityLabel("Remédio")
                     .font(.caption)
                     .foregroundColor(.secondary)
